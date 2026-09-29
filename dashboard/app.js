@@ -5,7 +5,13 @@ let regionChart = null;
 let categoryChart = null;
 
 document.addEventListener("DOMContentLoaded", () => {
-  fetch("data.json")
+  // Try fetching data.json from relative path or dashboard subfolder
+  const jsonPath = window.location.pathname.endsWith("/dashboard/") || window.location.pathname.endsWith("/dashboard/index.html")
+    ? "data.json"
+    : "dashboard/data.json";
+
+  fetch(jsonPath)
+    .catch(() => fetch("data.json"))
     .then(res => res.json())
     .then(data => {
       dashboardData = data;
