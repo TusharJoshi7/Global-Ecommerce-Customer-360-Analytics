@@ -1,0 +1,1201 @@
+customer_id,recency_days,frequency,monetary,region,R_Score,F_Score,M_Score,RFM_Score_Comb,RFM_Score_Avg,Customer_Segment
+CUST-1000,347,5,1545.04,North America,2,1,3,213,2.0,Cant Lose Them
+CUST-1001,1,8,1433.18,Latin America,3,3,3,333,3.0,Loyal Customers
+CUST-1002,564,7,1147.53,Asia-Pacific,1,2,2,122,1.67,Lost / Hibernating
+CUST-1003,666,6,1412.28,Europe,1,2,3,123,2.0,Cant Lose Them
+CUST-1004,22,1,114.0,North America,3,1,1,311,1.67,Lost / Hibernating
+CUST-1005,477,11,2188.9700000000003,North America,1,5,4,154,3.33,At Risk
+CUST-1006,117,10,1719.49,North America,3,4,3,343,3.33,Loyal Customers
+CUST-1007,1,6,3928.8,Asia-Pacific,3,2,5,325,3.33,Potential Loyalists
+CUST-1008,656,8,1093.76,Europe,1,3,2,132,2.0,At Risk
+CUST-1009,1,9,1708.64,Asia-Pacific,3,3,3,333,3.0,Loyal Customers
+CUST-1010,1,5,948.46,North America,3,1,2,312,2.0,Lost / Hibernating
+CUST-1011,206,11,2668.9300000000003,Latin America,2,5,5,255,4.0,At Risk
+CUST-1012,1,6,1841.08,Asia-Pacific,3,2,3,323,2.67,Potential Loyalists
+CUST-1013,45,10,2837.2400000000002,North America,3,4,5,345,4.0,Loyal Customers
+CUST-1014,140,12,1939.8700000000001,North America,3,5,4,354,4.0,Loyal Customers
+CUST-1015,1,8,2482.71,North America,3,3,4,334,3.33,Loyal Customers
+CUST-1016,1,9,4167.2,North America,3,3,5,335,3.67,Loyal Customers
+CUST-1017,358,7,1197.98,Europe,2,2,2,222,2.0,Lost / Hibernating
+CUST-1018,1,12,2368.61,Europe,3,5,4,354,4.0,Loyal Customers
+CUST-1019,316,6,1860.89,North America,2,2,3,223,2.33,Cant Lose Them
+CUST-1020,352,8,2511.91,Europe,2,3,4,234,3.0,At Risk
+CUST-1021,1,5,634.34,North America,3,1,1,311,1.67,Lost / Hibernating
+CUST-1022,329,9,3385.9500000000003,North America,2,3,5,235,3.33,At Risk
+CUST-1023,1,12,1830.46,North America,3,5,3,353,3.67,Loyal Customers
+CUST-1024,1,7,2051.87,Europe,3,2,4,324,3.0,Potential Loyalists
+CUST-1025,1,8,1606.27,Asia-Pacific,3,3,3,333,3.0,Loyal Customers
+CUST-1026,428,10,1733.7,North America,1,4,3,143,2.67,At Risk
+CUST-1027,663,9,1301.69,Europe,1,3,2,132,2.0,At Risk
+CUST-1028,1,10,2267.0699999999997,Europe,3,4,4,344,3.67,Loyal Customers
+CUST-1029,1,9,2196.07,North America,3,3,4,334,3.33,Loyal Customers
+CUST-1030,494,10,4354.34,Europe,1,4,5,145,3.33,At Risk
+CUST-1031,1,17,3591.78,North America,3,5,5,355,4.33,Loyal Customers
+CUST-1032,465,12,3354.58,North America,1,5,5,155,3.67,At Risk
+CUST-1033,357,6,2202.13,Latin America,2,2,4,224,2.67,Cant Lose Them
+CUST-1034,1,11,3241.54,Latin America,3,5,5,355,4.33,Loyal Customers
+CUST-1035,1,9,2830.33,Asia-Pacific,3,3,5,335,3.67,Loyal Customers
+CUST-1036,1,6,1340.73,North America,3,2,2,322,2.33,Lost / Hibernating
+CUST-1037,1,12,1669.96,North America,3,5,3,353,3.67,Loyal Customers
+CUST-1038,383,4,1470.7,Europe,1,1,3,113,1.67,Cant Lose Them
+CUST-1039,1,9,2739.45,Europe,3,3,5,335,3.67,Loyal Customers
+CUST-1040,445,6,3053.87,North America,1,2,5,125,2.67,Cant Lose Them
+CUST-1041,1,7,1842.3600000000001,Europe,3,2,3,323,2.67,Potential Loyalists
+CUST-1042,551,7,1435.52,North America,1,2,3,123,2.0,Cant Lose Them
+CUST-1043,180,9,1552.58,Latin America,2,3,3,233,2.67,At Risk
+CUST-1044,1,7,927.19,North America,3,2,1,321,2.0,Lost / Hibernating
+CUST-1045,1,8,1255.09,Europe,3,3,2,332,2.67,Loyal Customers
+CUST-1046,505,8,2264.48,North America,1,3,4,134,2.67,At Risk
+CUST-1047,1,4,519.24,Europe,3,1,1,311,1.67,Lost / Hibernating
+CUST-1048,1,8,1749.65,Europe,3,3,3,333,3.0,Loyal Customers
+CUST-1049,1,8,1817.88,North America,3,3,3,333,3.0,Loyal Customers
+CUST-1050,1,11,2952.25,Latin America,3,5,5,355,4.33,Loyal Customers
+CUST-1051,1,11,1755.46,Asia-Pacific,3,5,3,353,3.67,Loyal Customers
+CUST-1052,344,7,1153.49,Latin America,2,2,2,222,2.0,Lost / Hibernating
+CUST-1053,1,10,1778.8600000000001,Asia-Pacific,3,4,3,343,3.33,Loyal Customers
+CUST-1054,1,7,1705.63,Europe,3,2,3,323,2.67,Potential Loyalists
+CUST-1055,1,3,547.95,Latin America,3,1,1,311,1.67,Lost / Hibernating
+CUST-1056,1,11,3684.25,North America,3,5,5,355,4.33,Loyal Customers
+CUST-1057,1,9,1971.6100000000001,North America,3,3,4,334,3.33,Loyal Customers
+CUST-1058,270,7,4134.219999999999,North America,2,2,5,225,3.0,Cant Lose Them
+CUST-1059,1,3,709.96,North America,3,1,1,311,1.67,Lost / Hibernating
+CUST-1060,1,9,1233.7,North America,3,3,2,332,2.67,Loyal Customers
+CUST-1061,1,7,803.3000000000001,North America,3,2,1,321,2.0,Lost / Hibernating
+CUST-1062,1,7,624.43,Asia-Pacific,3,2,1,321,2.0,Lost / Hibernating
+CUST-1063,1,14,3677.54,North America,3,5,5,355,4.33,Loyal Customers
+CUST-1064,1,9,2000.75,North America,3,3,4,334,3.33,Loyal Customers
+CUST-1065,1,4,797.96,Europe,3,1,1,311,1.67,Lost / Hibernating
+CUST-1066,467,9,3163.41,North America,1,3,5,135,3.0,At Risk
+CUST-1067,1,12,3459.4700000000003,Asia-Pacific,3,5,5,355,4.33,Loyal Customers
+CUST-1068,457,8,1011.81,North America,1,3,2,132,2.0,At Risk
+CUST-1069,1,5,541.79,Latin America,3,1,1,311,1.67,Lost / Hibernating
+CUST-1070,1,12,3093.5,Asia-Pacific,3,5,5,355,4.33,Loyal Customers
+CUST-1071,1,8,880.13,North America,3,3,1,331,2.33,Loyal Customers
+CUST-1072,278,14,3977.8900000000003,North America,2,5,5,255,4.0,At Risk
+CUST-1073,1,10,1629.6599999999999,Asia-Pacific,3,4,3,343,3.33,Loyal Customers
+CUST-1074,266,3,276.44,Asia-Pacific,2,1,1,211,1.33,Lost / Hibernating
+CUST-1075,1,8,1222.56,Asia-Pacific,3,3,2,332,2.67,Loyal Customers
+CUST-1076,69,8,1493.53,Asia-Pacific,3,3,3,333,3.0,Loyal Customers
+CUST-1077,117,12,4285.17,North America,3,5,5,355,4.33,Loyal Customers
+CUST-1078,694,11,1988.22,North America,1,5,4,154,3.33,At Risk
+CUST-1079,1,9,1236.78,North America,3,3,2,332,2.67,Loyal Customers
+CUST-1080,257,3,760.09,Asia-Pacific,2,1,1,211,1.33,Lost / Hibernating
+CUST-1081,226,13,1774.06,Europe,2,5,3,253,3.33,At Risk
+CUST-1082,384,7,761.6,North America,1,2,1,121,1.33,Lost / Hibernating
+CUST-1083,237,7,2098.02,North America,2,2,4,224,2.67,Cant Lose Them
+CUST-1084,1,13,5570.25,North America,3,5,5,355,4.33,Loyal Customers
+CUST-1085,1,5,1657.96,North America,3,1,3,313,2.33,Potential Loyalists
+CUST-1086,1,7,1770.64,Asia-Pacific,3,2,3,323,2.67,Potential Loyalists
+CUST-1087,1,15,2832.63,Europe,3,5,5,355,4.33,Loyal Customers
+CUST-1088,1,11,3956.3999999999996,Asia-Pacific,3,5,5,355,4.33,Loyal Customers
+CUST-1089,306,6,628.4100000000001,Europe,2,2,1,221,1.67,Lost / Hibernating
+CUST-1090,1,5,587.09,North America,3,1,1,311,1.67,Lost / Hibernating
+CUST-1091,1,16,4473.05,Asia-Pacific,3,5,5,355,4.33,Loyal Customers
+CUST-1092,217,8,1321.3600000000001,Asia-Pacific,2,3,2,232,2.33,At Risk
+CUST-1093,1,4,549.9300000000001,Europe,3,1,1,311,1.67,Lost / Hibernating
+CUST-1094,396,5,800.87,Asia-Pacific,1,1,1,111,1.0,Lost / Hibernating
+CUST-1095,1,8,1832.41,Europe,3,3,3,333,3.0,Loyal Customers
+CUST-1096,192,8,2324.5099999999998,Europe,2,3,4,234,3.0,At Risk
+CUST-1097,178,9,3370.6,Europe,2,3,5,235,3.33,At Risk
+CUST-1098,322,7,684.36,North America,2,2,1,221,1.67,Lost / Hibernating
+CUST-1099,1,8,1849.34,North America,3,3,3,333,3.0,Loyal Customers
+CUST-1100,464,6,2407.33,North America,1,2,4,124,2.33,Cant Lose Them
+CUST-1101,1,5,1186.94,Europe,3,1,2,312,2.0,Lost / Hibernating
+CUST-1102,1,7,539.17,North America,3,2,1,321,2.0,Lost / Hibernating
+CUST-1103,102,7,1869.63,Europe,3,2,4,324,3.0,Potential Loyalists
+CUST-1104,1,15,2537.83,Latin America,3,5,4,354,4.0,Loyal Customers
+CUST-1105,1,8,1537.3600000000001,North America,3,3,3,333,3.0,Loyal Customers
+CUST-1106,1,10,3382.67,Europe,3,4,5,345,4.0,Loyal Customers
+CUST-1107,1,9,1852.49,Asia-Pacific,3,3,3,333,3.0,Loyal Customers
+CUST-1108,1,10,2351.19,North America,3,4,4,344,3.67,Loyal Customers
+CUST-1109,334,5,857.88,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1110,152,15,2589.71,North America,2,5,5,255,4.0,At Risk
+CUST-1111,84,12,3973.1600000000003,North America,3,5,5,355,4.33,Loyal Customers
+CUST-1112,378,4,1454.05,Latin America,1,1,3,113,1.67,Cant Lose Them
+CUST-1113,1,7,2015.85,Asia-Pacific,3,2,4,324,3.0,Potential Loyalists
+CUST-1114,19,12,1379.46,Europe,3,5,2,352,3.33,Loyal Customers
+CUST-1115,114,7,1370.1100000000001,Asia-Pacific,3,2,2,322,2.33,Lost / Hibernating
+CUST-1116,1,9,2274.93,Asia-Pacific,3,4,4,344,3.67,Loyal Customers
+CUST-1117,51,12,3209.66,North America,3,5,5,355,4.33,Loyal Customers
+CUST-1118,685,10,1634.42,Asia-Pacific,1,4,3,143,2.67,At Risk
+CUST-1119,1,7,3117.43,Europe,3,2,5,325,3.33,Potential Loyalists
+CUST-1120,396,8,2590.27,Asia-Pacific,1,3,5,135,3.0,At Risk
+CUST-1121,197,9,1361.8899999999999,Asia-Pacific,2,4,2,242,2.67,At Risk
+CUST-1122,313,5,864.27,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1123,283,8,1031.18,North America,2,3,2,232,2.33,At Risk
+CUST-1124,1,5,512.23,North America,3,1,1,311,1.67,Lost / Hibernating
+CUST-1125,1,13,3318.11,Europe,3,5,5,355,4.33,Loyal Customers
+CUST-1126,488,7,1231.15,Asia-Pacific,1,2,2,122,1.67,Lost / Hibernating
+CUST-1127,201,6,1982.5900000000001,Asia-Pacific,2,2,4,224,2.67,Cant Lose Them
+CUST-1128,576,7,1597.36,North America,1,2,3,123,2.0,Cant Lose Them
+CUST-1129,447,9,3139.11,Europe,1,4,5,145,3.33,At Risk
+CUST-1130,1,10,2904.3,Europe,3,4,5,345,4.0,Loyal Customers
+CUST-1131,1,6,1217.49,North America,3,2,2,322,2.33,Lost / Hibernating
+CUST-1132,542,6,835.04,North America,1,2,1,121,1.33,Lost / Hibernating
+CUST-1133,1,8,2518.57,North America,3,3,4,334,3.33,Loyal Customers
+CUST-1134,478,4,1229.42,Latin America,1,1,2,112,1.33,Lost / Hibernating
+CUST-1135,1,8,1776.5800000000002,North America,3,3,3,333,3.0,Loyal Customers
+CUST-1136,1,10,2651.39,Europe,3,4,5,345,4.0,Loyal Customers
+CUST-1137,1,11,2546.05,Asia-Pacific,3,5,4,354,4.0,Loyal Customers
+CUST-1138,537,7,708.91,North America,1,2,1,121,1.33,Lost / Hibernating
+CUST-1139,1,12,3210.86,Latin America,3,5,5,355,4.33,Loyal Customers
+CUST-1140,250,4,486.75,Latin America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1141,216,7,1839.92,North America,2,2,3,223,2.33,Cant Lose Them
+CUST-1142,1,13,1876.44,Europe,3,5,4,354,4.0,Loyal Customers
+CUST-1143,537,6,1188.1,North America,1,2,2,122,1.67,Lost / Hibernating
+CUST-1144,1,9,1532.87,North America,3,4,3,343,3.33,Loyal Customers
+CUST-1145,351,3,400.72,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1146,1,8,1274.97,Europe,3,3,2,332,2.67,Loyal Customers
+CUST-1147,364,5,2216.89,Europe,2,1,4,214,2.33,Cant Lose Them
+CUST-1148,406,11,1965.4,North America,1,5,4,154,3.33,At Risk
+CUST-1149,628,5,1612.77,North America,1,1,3,113,1.67,Cant Lose Them
+CUST-1150,1,5,944.47,Latin America,4,1,2,412,2.33,New Customers
+CUST-1151,1,12,2040.58,North America,4,5,4,454,4.33,Champions
+CUST-1152,43,10,2643.7200000000003,North America,3,4,5,345,4.0,Loyal Customers
+CUST-1153,1,9,2131.16,Europe,4,4,4,444,4.0,Champions
+CUST-1154,1,13,4130.45,Latin America,4,5,5,455,4.67,Champions
+CUST-1155,647,4,532.89,North America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1156,1,7,1396.97,Europe,4,2,3,423,3.0,Potential Loyalists
+CUST-1157,1,3,347.32,Asia-Pacific,4,1,1,411,2.0,New Customers
+CUST-1158,103,12,2122.58,North America,3,5,4,354,4.0,Loyal Customers
+CUST-1159,1,11,6161.68,Asia-Pacific,4,5,5,455,4.67,Champions
+CUST-1160,1,8,2189.48,North America,4,3,4,434,3.67,Loyal Customers
+CUST-1161,1,14,5146.860000000001,Europe,4,5,5,455,4.67,Champions
+CUST-1162,1,9,2079.2799999999997,Europe,4,4,4,444,4.0,Champions
+CUST-1163,86,10,2693.29,Europe,3,4,5,345,4.0,Loyal Customers
+CUST-1164,806,4,2029.63,North America,1,1,4,114,2.0,Cant Lose Them
+CUST-1165,92,6,1236.12,Asia-Pacific,3,2,2,322,2.33,Lost / Hibernating
+CUST-1166,1,3,327.04,North America,4,1,1,411,2.0,New Customers
+CUST-1167,667,6,1355.57,North America,1,2,2,122,1.67,Lost / Hibernating
+CUST-1168,324,9,2063.51,North America,2,4,4,244,3.33,At Risk
+CUST-1169,527,5,978.39,Europe,1,1,2,112,1.33,Lost / Hibernating
+CUST-1170,1,11,1567.5900000000001,Europe,4,5,3,453,4.0,Loyal Customers
+CUST-1171,709,4,841.6,North America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1172,1,13,2904.12,Europe,4,5,5,455,4.67,Champions
+CUST-1173,394,13,2171.01,North America,1,5,4,154,3.33,At Risk
+CUST-1174,265,10,2777.69,Europe,2,4,5,245,3.67,At Risk
+CUST-1175,416,10,1719.89,North America,1,4,3,143,2.67,At Risk
+CUST-1176,1,8,1235.47,Europe,4,3,2,432,3.0,Loyal Customers
+CUST-1177,103,6,1062.97,North America,3,2,2,322,2.33,Lost / Hibernating
+CUST-1178,266,13,2868.64,Latin America,2,5,5,255,4.0,At Risk
+CUST-1179,1,10,1455.33,North America,4,4,3,443,3.67,Loyal Customers
+CUST-1180,143,7,1416.3600000000001,North America,2,2,3,223,2.33,Cant Lose Them
+CUST-1181,1,9,1427.03,North America,4,4,3,443,3.67,Loyal Customers
+CUST-1182,65,10,2209.33,Latin America,3,4,4,344,3.67,Loyal Customers
+CUST-1183,1,5,782.5,Asia-Pacific,4,1,1,411,2.0,New Customers
+CUST-1184,423,4,872.3800000000001,North America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1185,1,12,2995.2599999999998,Europe,4,5,5,455,4.67,Champions
+CUST-1186,198,6,1420.96,Asia-Pacific,2,2,3,223,2.33,Cant Lose Them
+CUST-1187,198,8,2038.22,Europe,2,3,4,234,3.0,At Risk
+CUST-1188,165,9,2096.34,Europe,2,4,4,244,3.33,At Risk
+CUST-1189,223,3,823.62,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1190,257,6,3533.03,North America,2,2,5,225,3.0,Cant Lose Them
+CUST-1191,270,7,1253.23,Asia-Pacific,2,2,2,222,2.0,Lost / Hibernating
+CUST-1192,119,8,1370.85,Latin America,3,3,2,332,2.67,Loyal Customers
+CUST-1193,341,11,3406.37,Europe,2,5,5,255,4.0,At Risk
+CUST-1194,1,10,1520.12,North America,4,4,3,443,3.67,Loyal Customers
+CUST-1195,8,10,5741.51,North America,3,4,5,345,4.0,Loyal Customers
+CUST-1196,85,4,481.92,Asia-Pacific,3,1,1,311,1.67,Lost / Hibernating
+CUST-1197,233,4,692.83,Asia-Pacific,2,1,1,211,1.33,Lost / Hibernating
+CUST-1198,468,8,1210.8400000000001,Asia-Pacific,1,3,2,132,2.0,At Risk
+CUST-1199,193,4,2430.9300000000003,Asia-Pacific,2,1,4,214,2.33,Cant Lose Them
+CUST-1200,639,9,1057.79,Europe,1,4,2,142,2.33,At Risk
+CUST-1201,358,11,3618.39,North America,2,5,5,255,4.0,At Risk
+CUST-1202,321,8,1747.66,North America,2,3,3,233,2.67,At Risk
+CUST-1203,787,3,1259.45,Asia-Pacific,1,1,2,112,1.33,Lost / Hibernating
+CUST-1204,1,10,1387.57,Europe,4,4,2,442,3.33,Loyal Customers
+CUST-1205,403,7,2791.32,North America,1,2,5,125,2.67,Cant Lose Them
+CUST-1206,463,13,3244.46,North America,1,5,5,155,3.67,At Risk
+CUST-1207,1,7,1411.97,Europe,4,2,3,423,3.0,Potential Loyalists
+CUST-1208,478,6,2882.99,North America,1,2,5,125,2.67,Cant Lose Them
+CUST-1209,287,9,2685.72,North America,2,4,5,245,3.67,At Risk
+CUST-1210,585,7,1645.57,Europe,1,2,3,123,2.0,Cant Lose Them
+CUST-1211,349,4,964.5600000000001,Europe,2,1,2,212,1.67,Lost / Hibernating
+CUST-1212,1,4,848.47,Europe,4,1,1,411,2.0,New Customers
+CUST-1213,1,13,3019.35,North America,4,5,5,455,4.67,Champions
+CUST-1214,592,12,1883.27,Asia-Pacific,1,5,4,154,3.33,At Risk
+CUST-1215,1,11,3129.31,North America,4,5,5,455,4.67,Champions
+CUST-1216,1,6,1923.06,North America,4,2,4,424,3.33,Potential Loyalists
+CUST-1217,1,7,1822.56,Asia-Pacific,4,2,3,423,3.0,Potential Loyalists
+CUST-1218,688,10,1382.28,Europe,1,4,2,142,2.33,At Risk
+CUST-1219,571,9,1627.49,Asia-Pacific,1,4,3,143,2.67,At Risk
+CUST-1220,599,6,1648.94,Europe,1,2,3,123,2.0,Cant Lose Them
+CUST-1221,45,11,2563.87,Europe,3,5,5,355,4.33,Loyal Customers
+CUST-1222,1,6,1391.77,North America,4,2,3,423,3.0,Potential Loyalists
+CUST-1223,1,6,1182.65,North America,4,2,2,422,2.67,Lost / Hibernating
+CUST-1224,183,15,2651.28,North America,2,5,5,255,4.0,At Risk
+CUST-1225,228,7,2959.45,North America,2,2,5,225,3.0,Cant Lose Them
+CUST-1226,1,12,4143.45,Latin America,4,5,5,455,4.67,Champions
+CUST-1227,280,14,2614.17,North America,2,5,5,255,4.0,At Risk
+CUST-1228,138,8,1243.37,Asia-Pacific,3,3,2,332,2.67,Loyal Customers
+CUST-1229,1,7,1395.91,Europe,4,2,3,423,3.0,Potential Loyalists
+CUST-1230,357,11,1706.11,Asia-Pacific,2,5,3,253,3.33,At Risk
+CUST-1231,41,8,2503.67,Europe,3,3,4,334,3.33,Loyal Customers
+CUST-1232,1,10,2391.1200000000003,Europe,4,4,4,444,4.0,Champions
+CUST-1233,1,12,2769.54,Europe,4,5,5,455,4.67,Champions
+CUST-1234,1,15,2568.23,North America,4,5,5,455,4.67,Champions
+CUST-1235,95,8,2146.36,Asia-Pacific,3,3,4,334,3.33,Loyal Customers
+CUST-1236,1,11,1196.07,North America,4,5,2,452,3.67,Loyal Customers
+CUST-1237,147,9,2714.55,North America,2,4,5,245,3.67,At Risk
+CUST-1238,303,4,270.46000000000004,Europe,2,1,1,211,1.33,Lost / Hibernating
+CUST-1239,1,7,1987.63,North America,4,2,4,424,3.33,Potential Loyalists
+CUST-1240,257,4,307.71,Latin America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1241,1,10,2417.71,Latin America,4,4,4,444,4.0,Champions
+CUST-1242,1,6,1010.86,Latin America,4,2,2,422,2.67,Lost / Hibernating
+CUST-1243,1,10,2137.24,North America,4,4,4,444,4.0,Champions
+CUST-1244,75,10,1897.42,North America,3,4,4,344,3.67,Loyal Customers
+CUST-1245,272,6,2157.9,Latin America,2,2,4,224,2.67,Cant Lose Them
+CUST-1246,290,8,3355.05,Europe,2,3,5,235,3.33,At Risk
+CUST-1247,1,3,406.46,Latin America,4,1,1,411,2.0,New Customers
+CUST-1248,442,6,759.72,Latin America,1,2,1,121,1.33,Lost / Hibernating
+CUST-1249,1,9,2084.38,Asia-Pacific,4,4,4,444,4.0,Champions
+CUST-1250,1,8,1644.78,North America,4,3,3,433,3.33,Loyal Customers
+CUST-1251,1,7,1517.6599999999999,North America,4,2,3,423,3.0,Potential Loyalists
+CUST-1252,47,10,2041.6200000000001,Asia-Pacific,3,4,4,344,3.67,Loyal Customers
+CUST-1253,563,12,1712.04,North America,1,5,3,153,3.0,At Risk
+CUST-1254,1,6,1162.58,North America,4,2,2,422,2.67,Lost / Hibernating
+CUST-1255,504,11,1493.78,Europe,1,5,3,153,3.0,At Risk
+CUST-1256,1,11,1977.18,Latin America,4,5,4,454,4.33,Champions
+CUST-1257,1,7,518.92,Europe,4,2,1,421,2.33,Lost / Hibernating
+CUST-1258,422,6,1753.25,Europe,1,2,3,123,2.0,Cant Lose Them
+CUST-1259,479,4,423.14,North America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1260,1,5,1378.71,Europe,4,1,2,412,2.33,New Customers
+CUST-1261,568,4,1050.39,Latin America,1,1,2,112,1.33,Lost / Hibernating
+CUST-1262,1,7,1160.93,North America,4,2,2,422,2.67,Lost / Hibernating
+CUST-1263,1,10,2443.75,Europe,4,4,4,444,4.0,Champions
+CUST-1264,1,11,1766.99,Asia-Pacific,4,5,3,453,4.0,Loyal Customers
+CUST-1265,630,10,2555.97,Asia-Pacific,1,4,5,145,3.33,At Risk
+CUST-1266,1,9,2147.29,Europe,4,4,4,444,4.0,Champions
+CUST-1267,1,4,585.15,Asia-Pacific,4,1,1,411,2.0,New Customers
+CUST-1268,349,12,3356.23,North America,2,5,5,255,4.0,At Risk
+CUST-1269,176,10,3035.02,North America,2,4,5,245,3.67,At Risk
+CUST-1270,1,4,1180.5,Asia-Pacific,4,1,2,412,2.33,New Customers
+CUST-1271,72,6,666.36,Asia-Pacific,3,2,1,321,2.0,Lost / Hibernating
+CUST-1272,1,12,1773.22,Asia-Pacific,4,5,3,453,4.0,Loyal Customers
+CUST-1273,129,12,2731.76,Latin America,3,5,5,355,4.33,Loyal Customers
+CUST-1274,397,5,2613.9700000000003,Europe,1,1,5,115,2.33,Cant Lose Them
+CUST-1275,1,3,1340.8,Europe,4,1,2,412,2.33,New Customers
+CUST-1276,1,8,2327.56,Asia-Pacific,4,3,4,434,3.67,Loyal Customers
+CUST-1277,134,10,1193.96,Europe,3,4,2,342,3.0,Loyal Customers
+CUST-1278,38,8,2457.93,Asia-Pacific,3,3,4,334,3.33,Loyal Customers
+CUST-1279,1,9,1420.6,Asia-Pacific,4,4,3,443,3.67,Loyal Customers
+CUST-1280,1,13,3521.1,Asia-Pacific,4,5,5,455,4.67,Champions
+CUST-1281,45,5,3847.54,North America,3,1,5,315,3.0,Potential Loyalists
+CUST-1282,1,10,1522.36,North America,4,4,3,443,3.67,Loyal Customers
+CUST-1283,1,12,3712.59,North America,4,5,5,455,4.67,Champions
+CUST-1284,303,7,1023.5799999999999,Europe,2,2,2,222,2.0,Lost / Hibernating
+CUST-1285,299,7,2048.91,North America,2,2,4,224,2.67,Cant Lose Them
+CUST-1286,1,6,1370.02,Europe,4,2,2,422,2.67,Lost / Hibernating
+CUST-1287,311,6,1003.28,Europe,2,2,2,222,2.0,Lost / Hibernating
+CUST-1288,1,6,1357.2,North America,4,2,2,422,2.67,Lost / Hibernating
+CUST-1289,1,8,1190.26,Europe,4,3,2,432,3.0,Loyal Customers
+CUST-1290,472,5,1144.76,North America,1,1,2,112,1.33,Lost / Hibernating
+CUST-1291,322,7,1408.73,North America,2,2,3,223,2.33,Cant Lose Them
+CUST-1292,1,10,2326.41,Asia-Pacific,4,4,4,444,4.0,Champions
+CUST-1293,1,8,3404.63,North America,4,3,5,435,4.0,Loyal Customers
+CUST-1294,364,11,1383.65,North America,2,5,2,252,3.0,At Risk
+CUST-1295,1,9,2688.4,Europe,4,4,5,445,4.33,Champions
+CUST-1296,1,11,1565.48,Asia-Pacific,4,5,3,453,4.0,Loyal Customers
+CUST-1297,231,6,1589.71,North America,2,2,3,223,2.33,Cant Lose Them
+CUST-1298,180,4,709.1899999999999,Europe,2,1,1,211,1.33,Lost / Hibernating
+CUST-1299,147,11,2655.85,North America,2,5,5,255,4.0,At Risk
+CUST-1300,147,10,4408.96,North America,2,4,5,245,3.67,At Risk
+CUST-1301,403,11,1728.84,Europe,1,5,3,153,3.0,At Risk
+CUST-1302,1,13,2066.79,Europe,4,5,4,454,4.33,Champions
+CUST-1303,106,11,2250.16,Europe,3,5,4,354,4.0,Loyal Customers
+CUST-1304,135,14,2368.64,Asia-Pacific,3,5,4,354,4.0,Loyal Customers
+CUST-1305,1,4,1162.43,Latin America,4,1,2,412,2.33,New Customers
+CUST-1306,266,7,1488.24,Europe,2,2,3,223,2.33,Cant Lose Them
+CUST-1307,1,11,2992.28,North America,4,5,5,455,4.67,Champions
+CUST-1308,1,13,2915.77,Asia-Pacific,4,5,5,455,4.67,Champions
+CUST-1309,1,12,3697.48,North America,4,5,5,455,4.67,Champions
+CUST-1310,1,9,1860.96,Europe,4,4,4,444,4.0,Champions
+CUST-1311,1,9,869.1899999999999,North America,4,4,1,441,3.0,Loyal Customers
+CUST-1312,591,8,1148.94,North America,1,3,2,132,2.0,At Risk
+CUST-1313,1,7,1249.42,Latin America,4,2,2,422,2.67,Lost / Hibernating
+CUST-1314,1,6,1408.86,Asia-Pacific,4,2,3,423,3.0,Potential Loyalists
+CUST-1315,1,4,728.2,Europe,4,1,1,411,2.0,New Customers
+CUST-1316,320,5,833.8299999999999,Europe,2,1,1,211,1.33,Lost / Hibernating
+CUST-1317,1,13,3548.82,North America,4,5,5,455,4.67,Champions
+CUST-1318,147,6,825.01,North America,2,2,1,221,1.67,Lost / Hibernating
+CUST-1319,261,5,1385.04,North America,2,1,2,212,1.67,Lost / Hibernating
+CUST-1320,217,9,1002.08,Europe,2,4,2,242,2.67,At Risk
+CUST-1321,1,10,1861.48,Asia-Pacific,4,4,4,444,4.0,Champions
+CUST-1322,1,10,1580.47,Europe,4,4,3,443,3.67,Loyal Customers
+CUST-1323,1,9,1664.1100000000001,North America,4,4,3,443,3.67,Loyal Customers
+CUST-1324,1,12,2612.55,Latin America,4,5,5,455,4.67,Champions
+CUST-1325,388,2,216.95,Asia-Pacific,1,1,1,111,1.0,Lost / Hibernating
+CUST-1326,216,9,3400.3199999999997,Europe,2,4,5,245,3.67,At Risk
+CUST-1327,1,13,3538.89,Europe,4,5,5,455,4.67,Champions
+CUST-1328,1,7,1084.27,Europe,4,2,2,422,2.67,Lost / Hibernating
+CUST-1329,237,10,1702.52,North America,2,4,3,243,3.0,At Risk
+CUST-1330,1,11,2230.1,North America,4,5,4,454,4.33,Champions
+CUST-1331,131,11,3068.45,Asia-Pacific,3,5,5,355,4.33,Loyal Customers
+CUST-1332,1,11,1889.31,North America,4,5,4,454,4.33,Champions
+CUST-1333,347,10,3359.86,North America,2,4,5,245,3.67,At Risk
+CUST-1334,519,2,561.47,North America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1335,587,12,2479.38,North America,1,5,4,154,3.33,At Risk
+CUST-1336,1,9,1002.4,Asia-Pacific,4,4,2,442,3.33,Loyal Customers
+CUST-1337,1,5,1433.5900000000001,Asia-Pacific,4,1,3,413,2.67,Potential Loyalists
+CUST-1338,374,8,1533.2,Europe,1,3,3,133,2.33,At Risk
+CUST-1339,1,11,2413.35,North America,4,5,4,454,4.33,Champions
+CUST-1340,1,6,933.04,Europe,4,2,2,422,2.67,Lost / Hibernating
+CUST-1341,411,9,1736.21,Europe,1,4,3,143,2.67,At Risk
+CUST-1342,485,11,2854.26,North America,1,5,5,155,3.67,At Risk
+CUST-1343,1,11,2319.11,Europe,4,5,4,454,4.33,Champions
+CUST-1344,205,7,919.64,North America,2,2,1,221,1.67,Lost / Hibernating
+CUST-1345,256,3,367.92,Europe,2,1,1,211,1.33,Lost / Hibernating
+CUST-1346,1,7,2192.66,Europe,4,2,4,424,3.33,Potential Loyalists
+CUST-1347,368,4,1169.92,North America,2,1,2,212,1.67,Lost / Hibernating
+CUST-1348,1,11,1432.79,North America,4,5,3,453,4.0,Loyal Customers
+CUST-1349,1,4,445.97,Europe,4,1,1,411,2.0,New Customers
+CUST-1350,1,8,2554.65,Europe,4,3,5,435,4.0,Loyal Customers
+CUST-1351,298,6,1340.41,Asia-Pacific,2,2,2,222,2.0,Lost / Hibernating
+CUST-1352,1,14,3832.82,Europe,4,5,5,455,4.67,Champions
+CUST-1353,338,4,720.85,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1354,129,6,1912.47,North America,3,2,4,324,3.0,Potential Loyalists
+CUST-1355,270,10,1788.74,Europe,2,4,3,243,3.0,At Risk
+CUST-1356,562,11,2258.24,North America,1,5,4,154,3.33,At Risk
+CUST-1357,1,5,752.42,Europe,4,1,1,411,2.0,New Customers
+CUST-1358,1,9,2732.17,Latin America,4,4,5,445,4.33,Champions
+CUST-1359,237,8,1884.98,Europe,2,3,4,234,3.0,At Risk
+CUST-1360,1,7,457.08,North America,4,2,1,421,2.33,Lost / Hibernating
+CUST-1361,1,10,1177.96,Europe,4,4,2,442,3.33,Loyal Customers
+CUST-1362,1,11,4309.71,Europe,4,5,5,455,4.67,Champions
+CUST-1363,1,7,1413.51,Europe,4,2,3,423,3.0,Potential Loyalists
+CUST-1364,1,10,2184.19,Latin America,4,4,4,444,4.0,Champions
+CUST-1365,240,8,1423.34,North America,2,3,3,233,2.67,At Risk
+CUST-1366,195,6,850.32,Latin America,2,2,1,221,1.67,Lost / Hibernating
+CUST-1367,577,3,312.28,Latin America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1368,299,12,1938.19,North America,2,5,4,254,3.67,At Risk
+CUST-1369,1,15,3537.11,North America,4,5,5,455,4.67,Champions
+CUST-1370,1,6,1049.45,North America,4,2,2,422,2.67,Lost / Hibernating
+CUST-1371,193,6,1133.92,North America,2,2,2,222,2.0,Lost / Hibernating
+CUST-1372,264,10,2417.13,North America,2,4,4,244,3.33,At Risk
+CUST-1373,103,10,1580.16,Europe,3,4,3,343,3.33,Loyal Customers
+CUST-1374,1,10,1689.15,North America,4,4,3,443,3.67,Loyal Customers
+CUST-1375,474,12,2480.77,North America,1,5,4,154,3.33,At Risk
+CUST-1376,636,6,663.86,Asia-Pacific,1,2,1,121,1.33,Lost / Hibernating
+CUST-1377,260,8,1606.8,North America,2,3,3,233,2.67,At Risk
+CUST-1378,1,4,1180.28,Asia-Pacific,4,1,2,412,2.33,New Customers
+CUST-1379,119,4,623.48,North America,3,1,1,311,1.67,Lost / Hibernating
+CUST-1380,396,6,963.4,North America,1,2,2,122,1.67,Lost / Hibernating
+CUST-1381,562,10,1719.58,Europe,1,4,3,143,2.67,At Risk
+CUST-1382,316,8,1049.87,Europe,2,3,2,232,2.33,At Risk
+CUST-1383,355,7,1584.78,Asia-Pacific,2,2,3,223,2.33,Cant Lose Them
+CUST-1384,1,7,991.31,Asia-Pacific,4,2,2,422,2.67,Lost / Hibernating
+CUST-1385,1,10,1685.25,Asia-Pacific,4,4,3,443,3.67,Loyal Customers
+CUST-1386,1,15,4699.2,North America,4,5,5,455,4.67,Champions
+CUST-1387,355,10,2975.15,North America,2,4,5,245,3.67,At Risk
+CUST-1388,174,4,425.96000000000004,Asia-Pacific,2,1,1,211,1.33,Lost / Hibernating
+CUST-1389,1,10,2865.59,Asia-Pacific,4,4,5,445,4.33,Champions
+CUST-1390,1,10,3456.18,Latin America,4,4,5,445,4.33,Champions
+CUST-1391,219,5,948.16,Europe,2,1,2,212,1.67,Lost / Hibernating
+CUST-1392,236,7,1639.62,North America,2,2,3,223,2.33,Cant Lose Them
+CUST-1393,1,12,3161.81,Asia-Pacific,4,5,5,455,4.67,Champions
+CUST-1394,1,15,2461.43,North America,4,5,4,454,4.33,Champions
+CUST-1395,1,14,3881.32,Latin America,4,5,5,455,4.67,Champions
+CUST-1396,1,7,1164.31,Asia-Pacific,4,2,2,422,2.67,Lost / Hibernating
+CUST-1397,56,2,620.34,Europe,3,1,1,311,1.67,Lost / Hibernating
+CUST-1398,1,11,2750.79,Asia-Pacific,4,5,5,455,4.67,Champions
+CUST-1399,182,10,1475.5900000000001,Asia-Pacific,2,4,3,243,3.0,At Risk
+CUST-1400,638,6,745.99,North America,1,2,1,121,1.33,Lost / Hibernating
+CUST-1401,1,10,893.24,Latin America,4,4,1,441,3.0,Loyal Customers
+CUST-1402,1,8,1422.75,Europe,4,3,3,433,3.33,Loyal Customers
+CUST-1403,265,8,1878.45,Asia-Pacific,2,3,4,234,3.0,At Risk
+CUST-1404,701,7,2104.19,North America,1,2,4,124,2.33,Cant Lose Them
+CUST-1405,1,10,1301.7,Asia-Pacific,4,4,2,442,3.33,Loyal Customers
+CUST-1406,493,9,2997.4700000000003,North America,1,4,5,145,3.33,At Risk
+CUST-1407,1,4,855.96,North America,4,1,1,411,2.0,New Customers
+CUST-1408,1,8,1043.5,Latin America,4,3,2,432,3.0,Loyal Customers
+CUST-1409,640,4,701.44,North America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1410,1,5,793.02,North America,4,1,1,411,2.0,New Customers
+CUST-1411,638,5,890.1800000000001,Latin America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1412,99,5,757.87,Latin America,3,1,1,311,1.67,Lost / Hibernating
+CUST-1413,199,7,1254.48,Europe,2,2,2,222,2.0,Lost / Hibernating
+CUST-1414,632,7,718.83,Europe,1,2,1,121,1.33,Lost / Hibernating
+CUST-1415,27,10,2505.49,Europe,3,4,4,344,3.67,Loyal Customers
+CUST-1416,561,9,1255.48,North America,1,4,2,142,2.33,At Risk
+CUST-1417,1,6,926.21,North America,4,2,1,421,2.33,Lost / Hibernating
+CUST-1418,161,9,2552.73,Europe,2,4,5,245,3.67,At Risk
+CUST-1419,1,9,1448.1,Asia-Pacific,4,4,3,443,3.67,Loyal Customers
+CUST-1420,1,8,1276.71,Asia-Pacific,4,3,2,432,3.0,Loyal Customers
+CUST-1421,1,8,2992.5,Asia-Pacific,4,3,5,435,4.0,Loyal Customers
+CUST-1422,411,4,283.37,North America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1423,596,4,694.89,Europe,1,1,1,111,1.0,Lost / Hibernating
+CUST-1424,172,7,1545.45,North America,2,2,3,223,2.33,Cant Lose Them
+CUST-1425,1,10,1812.45,Europe,4,4,3,443,3.67,Loyal Customers
+CUST-1426,368,6,1337.8000000000002,Europe,2,2,2,222,2.0,Lost / Hibernating
+CUST-1427,626,5,565.52,Asia-Pacific,1,1,1,111,1.0,Lost / Hibernating
+CUST-1428,1,5,889.77,North America,4,1,1,411,2.0,New Customers
+CUST-1429,606,9,1520.04,North America,1,4,3,143,2.67,At Risk
+CUST-1430,1,5,1140.96,North America,4,1,2,412,2.33,New Customers
+CUST-1431,17,10,2535.9300000000003,Asia-Pacific,3,4,4,344,3.67,Loyal Customers
+CUST-1432,52,10,4060.3399999999997,Europe,3,4,5,345,4.0,Loyal Customers
+CUST-1433,1,7,909.61,North America,4,2,1,421,2.33,Lost / Hibernating
+CUST-1434,347,7,1391.1100000000001,North America,2,2,3,223,2.33,Cant Lose Them
+CUST-1435,86,11,1498.63,Asia-Pacific,3,5,3,353,3.67,Loyal Customers
+CUST-1436,1,9,3080.65,North America,4,4,5,445,4.33,Champions
+CUST-1437,487,10,1032.92,Asia-Pacific,1,4,2,142,2.33,At Risk
+CUST-1438,1,2,492.54999999999995,Asia-Pacific,4,1,1,411,2.0,New Customers
+CUST-1439,73,7,1074.49,North America,3,2,2,322,2.33,Lost / Hibernating
+CUST-1440,1,6,774.5,North America,4,2,1,421,2.33,Lost / Hibernating
+CUST-1441,249,9,2385.71,Latin America,2,4,4,244,3.33,At Risk
+CUST-1442,110,10,1485.39,North America,3,4,3,343,3.33,Loyal Customers
+CUST-1443,1,10,2425.23,North America,4,4,4,444,4.0,Champions
+CUST-1444,1,8,1819.74,Asia-Pacific,4,3,3,433,3.33,Loyal Customers
+CUST-1445,1,7,1490.75,Latin America,4,2,3,423,3.0,Potential Loyalists
+CUST-1446,305,13,2167.9900000000002,Latin America,2,5,4,254,3.67,At Risk
+CUST-1447,643,8,1058.66,Asia-Pacific,1,3,2,132,2.0,At Risk
+CUST-1448,314,5,2749.8599999999997,North America,2,1,5,215,2.67,Cant Lose Them
+CUST-1449,104,14,3819.63,North America,3,5,5,355,4.33,Loyal Customers
+CUST-1450,1,12,2614.35,Asia-Pacific,4,5,5,455,4.67,Champions
+CUST-1451,17,7,787.86,Europe,3,2,1,321,2.0,Lost / Hibernating
+CUST-1452,1,10,2442.7400000000002,Europe,4,4,4,444,4.0,Champions
+CUST-1453,430,10,4421.15,Latin America,1,4,5,145,3.33,At Risk
+CUST-1454,1,6,985.09,North America,4,2,2,422,2.67,Lost / Hibernating
+CUST-1455,202,9,652.71,Europe,2,4,1,241,2.33,At Risk
+CUST-1456,433,11,1784.02,North America,1,5,3,153,3.0,At Risk
+CUST-1457,89,7,644.0699999999999,Europe,3,2,1,321,2.0,Lost / Hibernating
+CUST-1458,1,10,2148.59,North America,4,4,4,444,4.0,Champions
+CUST-1459,570,6,1058.63,North America,1,2,2,122,1.67,Lost / Hibernating
+CUST-1460,385,4,835.53,North America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1461,695,5,1260.22,Europe,1,1,2,112,1.33,Lost / Hibernating
+CUST-1462,354,5,1768.1100000000001,Asia-Pacific,2,1,3,213,2.0,Cant Lose Them
+CUST-1463,38,4,776.0,Europe,3,1,1,311,1.67,Lost / Hibernating
+CUST-1464,135,8,1018.1,Latin America,3,3,2,332,2.67,Loyal Customers
+CUST-1465,490,5,943.04,North America,1,1,2,112,1.33,Lost / Hibernating
+CUST-1466,1,7,1223.83,North America,4,2,2,422,2.67,Lost / Hibernating
+CUST-1467,1,13,1669.02,Asia-Pacific,4,5,3,453,4.0,Loyal Customers
+CUST-1468,1,9,2017.57,North America,4,4,4,444,4.0,Champions
+CUST-1469,1,8,1269.8200000000002,Latin America,4,3,2,432,3.0,Loyal Customers
+CUST-1470,1,7,1790.64,North America,4,2,3,423,3.0,Potential Loyalists
+CUST-1471,1,6,1245.06,Latin America,4,2,2,422,2.67,Lost / Hibernating
+CUST-1472,20,8,2939.55,North America,3,3,5,335,3.67,Loyal Customers
+CUST-1473,1,9,1715.0300000000002,Asia-Pacific,4,4,3,443,3.67,Loyal Customers
+CUST-1474,107,5,2149.85,Europe,3,1,4,314,2.67,Potential Loyalists
+CUST-1475,1,16,5352.4400000000005,Latin America,4,5,5,455,4.67,Champions
+CUST-1476,1,10,2206.04,North America,4,4,4,444,4.0,Champions
+CUST-1477,734,5,1914.96,Europe,1,1,4,114,2.0,Cant Lose Them
+CUST-1478,310,11,4141.32,Latin America,2,5,5,255,4.0,At Risk
+CUST-1479,292,9,2304.41,Europe,2,4,4,244,3.33,At Risk
+CUST-1480,10,7,1543.75,Europe,3,2,3,323,2.67,Potential Loyalists
+CUST-1481,449,6,1169.1,Europe,1,2,2,122,1.67,Lost / Hibernating
+CUST-1482,297,5,1142.52,Europe,2,1,2,212,1.67,Lost / Hibernating
+CUST-1483,386,6,1527.47,Europe,1,2,3,123,2.0,Cant Lose Them
+CUST-1484,53,11,2590.54,Europe,3,5,5,355,4.33,Loyal Customers
+CUST-1485,1,12,1551.29,Latin America,4,5,3,453,4.0,Loyal Customers
+CUST-1486,1,10,1585.26,North America,4,4,3,443,3.67,Loyal Customers
+CUST-1487,652,12,3271.38,North America,1,5,5,155,3.67,At Risk
+CUST-1488,1,7,1125.39,Latin America,4,2,2,422,2.67,Lost / Hibernating
+CUST-1489,1,9,2968.05,Asia-Pacific,4,4,5,445,4.33,Champions
+CUST-1490,1,9,3795.3,Europe,4,4,5,445,4.33,Champions
+CUST-1491,1,11,2048.0,Europe,4,5,4,454,4.33,Champions
+CUST-1492,371,10,2617.85,North America,1,4,5,145,3.33,At Risk
+CUST-1493,1,6,1185.07,North America,4,2,2,422,2.67,Lost / Hibernating
+CUST-1494,610,9,2665.2400000000002,Europe,1,4,5,145,3.33,At Risk
+CUST-1495,1,7,2785.5099999999998,North America,4,2,5,425,3.67,Potential Loyalists
+CUST-1496,1,3,1300.21,Europe,4,1,2,412,2.33,New Customers
+CUST-1497,1,11,3670.4,North America,4,5,5,455,4.67,Champions
+CUST-1498,1,6,2016.75,Latin America,4,2,4,424,3.33,Potential Loyalists
+CUST-1499,204,7,878.51,Latin America,2,2,1,221,1.67,Lost / Hibernating
+CUST-1500,349,8,1563.07,Europe,2,3,3,233,2.67,At Risk
+CUST-1501,130,6,707.92,Europe,3,2,1,321,2.0,Lost / Hibernating
+CUST-1502,1,12,2487.21,North America,4,5,4,454,4.33,Champions
+CUST-1503,108,7,1664.5,Asia-Pacific,3,2,3,323,2.67,Potential Loyalists
+CUST-1504,1,8,854.4,Europe,4,3,1,431,2.67,Loyal Customers
+CUST-1505,362,12,1786.68,North America,2,5,3,253,3.33,At Risk
+CUST-1506,82,9,1469.26,Latin America,3,4,3,343,3.33,Loyal Customers
+CUST-1507,1,5,516.12,Asia-Pacific,4,1,1,411,2.0,New Customers
+CUST-1508,57,5,2003.49,Latin America,3,1,4,314,2.67,Potential Loyalists
+CUST-1509,641,6,922.46,Asia-Pacific,1,2,1,121,1.33,Lost / Hibernating
+CUST-1510,1,10,1445.83,Europe,4,4,3,443,3.67,Loyal Customers
+CUST-1511,242,7,1133.3400000000001,Europe,2,2,2,222,2.0,Lost / Hibernating
+CUST-1512,1,4,1365.96,Latin America,4,1,2,412,2.33,New Customers
+CUST-1513,116,9,3117.14,Asia-Pacific,3,4,5,345,4.0,Loyal Customers
+CUST-1514,1,6,490.8,North America,4,2,1,421,2.33,Lost / Hibernating
+CUST-1515,1,9,842.76,North America,4,4,1,441,3.0,Loyal Customers
+CUST-1516,92,6,1135.98,North America,3,2,2,322,2.33,Lost / Hibernating
+CUST-1517,366,11,1809.82,Asia-Pacific,2,5,3,253,3.33,At Risk
+CUST-1518,1,10,2420.59,Latin America,4,4,4,444,4.0,Champions
+CUST-1519,319,7,2044.24,North America,2,2,4,224,2.67,Cant Lose Them
+CUST-1520,1,8,1554.69,Europe,4,3,3,433,3.33,Loyal Customers
+CUST-1521,27,8,1137.56,North America,3,3,2,332,2.67,Loyal Customers
+CUST-1522,10,6,1376.3200000000002,Latin America,3,2,2,322,2.33,Lost / Hibernating
+CUST-1523,1,10,1378.1299999999999,Asia-Pacific,4,4,2,442,3.33,Loyal Customers
+CUST-1524,1,9,2150.02,Asia-Pacific,4,4,4,444,4.0,Champions
+CUST-1525,586,7,2592.14,Europe,1,2,5,125,2.67,Cant Lose Them
+CUST-1526,522,9,1699.6299999999999,Europe,1,4,3,143,2.67,At Risk
+CUST-1527,1,11,3363.43,North America,4,5,5,455,4.67,Champions
+CUST-1528,555,8,2066.89,North America,1,3,4,134,2.67,At Risk
+CUST-1529,1,10,1588.91,Asia-Pacific,4,4,3,443,3.67,Loyal Customers
+CUST-1530,1,10,1619.49,Asia-Pacific,4,4,3,443,3.67,Loyal Customers
+CUST-1531,1,7,1383.41,Latin America,4,2,2,422,2.67,Lost / Hibernating
+CUST-1532,274,2,428.19,Latin America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1533,16,7,1512.3700000000001,Europe,3,2,3,323,2.67,Potential Loyalists
+CUST-1534,390,5,1542.8600000000001,Asia-Pacific,1,1,3,113,1.67,Cant Lose Them
+CUST-1535,348,11,2588.77,Latin America,2,5,5,255,4.0,At Risk
+CUST-1536,1,8,1245.55,Asia-Pacific,4,3,2,432,3.0,Loyal Customers
+CUST-1537,1,18,3461.56,North America,4,5,5,455,4.67,Champions
+CUST-1538,382,6,2689.4900000000002,Europe,1,2,5,125,2.67,Cant Lose Them
+CUST-1539,1,10,1799.98,North America,4,4,3,443,3.67,Loyal Customers
+CUST-1540,413,9,2381.29,Latin America,1,4,4,144,3.0,At Risk
+CUST-1541,346,9,2491.2,Europe,2,4,4,244,3.33,At Risk
+CUST-1542,1,10,1677.27,North America,4,4,3,443,3.67,Loyal Customers
+CUST-1543,1,6,1753.85,Europe,4,2,3,423,3.0,Potential Loyalists
+CUST-1544,52,2,323.03000000000003,Europe,3,1,1,311,1.67,Lost / Hibernating
+CUST-1545,1,10,2185.88,North America,4,4,4,444,4.0,Champions
+CUST-1546,1,6,1591.8700000000001,North America,4,2,3,423,3.0,Potential Loyalists
+CUST-1547,1,7,1599.8600000000001,Europe,4,2,3,423,3.0,Potential Loyalists
+CUST-1548,412,14,4498.19,Europe,1,5,5,155,3.67,At Risk
+CUST-1549,586,5,659.95,Asia-Pacific,1,1,1,111,1.0,Lost / Hibernating
+CUST-1550,1,7,1012.86,Europe,4,2,2,422,2.67,Lost / Hibernating
+CUST-1551,525,3,262.71,Asia-Pacific,1,1,1,111,1.0,Lost / Hibernating
+CUST-1552,1,9,1152.62,Europe,4,4,2,442,3.33,Loyal Customers
+CUST-1553,197,10,2578.73,Europe,2,4,5,245,3.67,At Risk
+CUST-1554,1,6,1069.8,Asia-Pacific,4,2,2,422,2.67,Lost / Hibernating
+CUST-1555,1,17,2279.73,Europe,4,5,4,454,4.33,Champions
+CUST-1556,1,11,3340.74,North America,4,5,5,455,4.67,Champions
+CUST-1557,443,10,1199.02,North America,1,4,2,142,2.33,At Risk
+CUST-1558,530,8,1209.33,Asia-Pacific,1,3,2,132,2.0,At Risk
+CUST-1559,144,8,1023.76,Europe,2,3,2,232,2.33,At Risk
+CUST-1560,470,9,2841.79,Asia-Pacific,1,4,5,145,3.33,At Risk
+CUST-1561,410,7,2142.27,North America,1,2,4,124,2.33,Cant Lose Them
+CUST-1562,449,7,1488.73,North America,1,2,3,123,2.0,Cant Lose Them
+CUST-1563,393,5,2120.7200000000003,North America,1,1,4,114,2.0,Cant Lose Them
+CUST-1564,569,3,690.37,North America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1565,1,8,2191.7200000000003,Europe,4,3,4,434,3.67,Loyal Customers
+CUST-1566,1,8,2127.49,North America,4,3,4,434,3.67,Loyal Customers
+CUST-1567,402,12,2588.91,Europe,1,5,5,155,3.67,At Risk
+CUST-1568,1,4,900.98,Latin America,4,1,1,411,2.0,New Customers
+CUST-1569,1,5,1180.4,North America,4,1,2,412,2.33,New Customers
+CUST-1570,211,9,3408.16,Europe,2,4,5,245,3.67,At Risk
+CUST-1571,1,7,1419.41,Asia-Pacific,4,2,3,423,3.0,Potential Loyalists
+CUST-1572,96,10,2172.36,North America,3,4,4,344,3.67,Loyal Customers
+CUST-1573,230,7,1995.54,Europe,2,2,4,224,2.67,Cant Lose Them
+CUST-1574,1,8,1478.81,Asia-Pacific,4,3,3,433,3.33,Loyal Customers
+CUST-1575,258,10,3090.11,Latin America,2,4,5,245,3.67,At Risk
+CUST-1576,551,8,1648.44,North America,1,3,3,133,2.33,At Risk
+CUST-1577,374,7,1444.19,Latin America,1,2,3,123,2.0,Cant Lose Them
+CUST-1578,17,10,1681.74,Europe,3,4,3,343,3.33,Loyal Customers
+CUST-1579,142,7,896.8100000000001,North America,2,2,1,221,1.67,Lost / Hibernating
+CUST-1580,1,8,1672.08,Europe,4,3,3,433,3.33,Loyal Customers
+CUST-1581,734,6,1623.99,Latin America,1,2,3,123,2.0,Cant Lose Them
+CUST-1582,381,3,316.99,Europe,1,1,1,111,1.0,Lost / Hibernating
+CUST-1583,152,13,1795.23,North America,2,5,3,253,3.33,At Risk
+CUST-1584,1,6,2221.6800000000003,Europe,4,2,4,424,3.33,Potential Loyalists
+CUST-1585,1,7,1032.99,North America,4,2,2,422,2.67,Lost / Hibernating
+CUST-1586,1,5,991.41,North America,4,1,2,412,2.33,New Customers
+CUST-1587,355,15,1999.13,North America,2,5,4,254,3.67,At Risk
+CUST-1588,1,8,1474.98,North America,4,3,3,433,3.33,Loyal Customers
+CUST-1589,61,7,1965.9,North America,3,2,4,324,3.0,Potential Loyalists
+CUST-1590,1,8,1514.64,North America,4,3,3,433,3.33,Loyal Customers
+CUST-1591,495,11,4184.03,Europe,1,5,5,155,3.67,At Risk
+CUST-1592,305,3,823.53,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1593,1,6,1054.72,North America,4,2,2,422,2.67,Lost / Hibernating
+CUST-1594,1,9,1245.9,Asia-Pacific,4,4,2,442,3.33,Loyal Customers
+CUST-1595,1,7,3066.25,Europe,4,2,5,425,3.67,Potential Loyalists
+CUST-1596,1,6,1294.81,Europe,4,2,2,422,2.67,Lost / Hibernating
+CUST-1597,322,6,1091.52,North America,2,2,2,222,2.0,Lost / Hibernating
+CUST-1598,154,3,333.68,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1599,123,6,687.19,North America,3,2,1,321,2.0,Lost / Hibernating
+CUST-1600,1,5,731.7,North America,4,1,1,411,2.0,New Customers
+CUST-1601,1,8,1501.4,North America,4,3,3,433,3.33,Loyal Customers
+CUST-1602,56,4,588.28,North America,3,1,1,311,1.67,Lost / Hibernating
+CUST-1603,523,10,2447.6,North America,1,4,4,144,3.0,At Risk
+CUST-1604,86,8,1543.27,North America,3,3,3,333,3.0,Loyal Customers
+CUST-1605,45,11,2327.78,Europe,3,5,4,354,4.0,Loyal Customers
+CUST-1606,154,11,1912.42,North America,2,5,4,254,3.67,At Risk
+CUST-1607,22,12,4530.27,North America,3,5,5,355,4.33,Loyal Customers
+CUST-1608,1,5,1455.51,Europe,4,1,3,413,2.67,Potential Loyalists
+CUST-1609,273,1,399.6,Europe,2,1,1,211,1.33,Lost / Hibernating
+CUST-1610,1,8,1663.74,North America,4,3,3,433,3.33,Loyal Customers
+CUST-1611,598,14,1772.95,Asia-Pacific,1,5,3,153,3.0,At Risk
+CUST-1612,1,10,3126.4300000000003,Europe,4,4,5,445,4.33,Champions
+CUST-1613,1,10,1594.5,North America,4,4,3,443,3.67,Loyal Customers
+CUST-1614,1,10,1977.24,Asia-Pacific,4,4,4,444,4.0,Champions
+CUST-1615,262,9,1892.73,Latin America,2,4,4,244,3.33,At Risk
+CUST-1616,315,7,1046.05,North America,2,2,2,222,2.0,Lost / Hibernating
+CUST-1617,1,11,3526.96,North America,4,5,5,455,4.67,Champions
+CUST-1618,1,7,1009.21,Asia-Pacific,4,2,2,422,2.67,Lost / Hibernating
+CUST-1619,1,5,694.61,Asia-Pacific,4,1,1,411,2.0,New Customers
+CUST-1620,392,10,2887.44,North America,1,4,5,145,3.33,At Risk
+CUST-1621,409,6,5961.55,North America,1,2,5,125,2.67,Cant Lose Them
+CUST-1622,1,10,1780.37,North America,4,4,3,443,3.67,Loyal Customers
+CUST-1623,1,7,1218.87,Europe,4,2,2,422,2.67,Lost / Hibernating
+CUST-1624,1,6,1437.6200000000001,Europe,4,2,3,423,3.0,Potential Loyalists
+CUST-1625,673,7,716.9,North America,1,2,1,121,1.33,Lost / Hibernating
+CUST-1626,114,7,2182.41,Europe,3,2,4,324,3.0,Potential Loyalists
+CUST-1627,1,10,2037.75,Asia-Pacific,4,4,4,444,4.0,Champions
+CUST-1628,150,5,567.54,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1629,70,6,2144.9700000000003,North America,3,2,4,324,3.0,Potential Loyalists
+CUST-1630,1,8,855.04,Asia-Pacific,4,3,1,431,2.67,Loyal Customers
+CUST-1631,1,8,1824.19,Asia-Pacific,4,3,3,433,3.33,Loyal Customers
+CUST-1632,1,8,2099.84,Europe,4,3,4,434,3.67,Loyal Customers
+CUST-1633,1,10,2746.09,Europe,4,4,5,445,4.33,Champions
+CUST-1634,684,5,1195.05,North America,1,1,2,112,1.33,Lost / Hibernating
+CUST-1635,526,5,1871.02,Europe,1,1,4,114,2.0,Cant Lose Them
+CUST-1636,1,7,1084.63,Europe,4,2,2,422,2.67,Lost / Hibernating
+CUST-1637,1,7,997.6,North America,4,2,2,422,2.67,Lost / Hibernating
+CUST-1638,1,11,2963.18,North America,4,5,5,455,4.67,Champions
+CUST-1639,1,11,2157.71,North America,4,5,4,454,4.33,Champions
+CUST-1640,507,4,1684.71,North America,1,1,3,113,1.67,Cant Lose Them
+CUST-1641,205,11,2386.9300000000003,North America,2,5,4,254,3.67,At Risk
+CUST-1642,298,7,3338.72,North America,2,2,5,225,3.0,Cant Lose Them
+CUST-1643,1,3,526.95,North America,4,1,1,411,2.0,New Customers
+CUST-1644,434,5,975.46,North America,1,1,2,112,1.33,Lost / Hibernating
+CUST-1645,146,10,1952.53,Asia-Pacific,2,4,4,244,3.33,At Risk
+CUST-1646,1,5,693.7900000000001,Europe,4,1,1,411,2.0,New Customers
+CUST-1647,460,8,1184.34,Europe,1,3,2,132,2.0,At Risk
+CUST-1648,1,9,2293.98,Asia-Pacific,4,4,4,444,4.0,Champions
+CUST-1649,1,2,464.96000000000004,Europe,4,1,1,411,2.0,New Customers
+CUST-1650,620,7,1432.76,North America,1,2,3,123,2.0,Cant Lose Them
+CUST-1651,1,6,911.71,Europe,4,2,1,421,2.33,Lost / Hibernating
+CUST-1652,1,7,2590.32,Europe,4,2,5,425,3.67,Potential Loyalists
+CUST-1653,694,5,3807.84,Asia-Pacific,1,1,5,115,2.33,Cant Lose Them
+CUST-1654,1,12,3131.82,Europe,4,5,5,455,4.67,Champions
+CUST-1655,659,4,831.77,North America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1656,1,12,1558.85,North America,4,5,3,453,4.0,Loyal Customers
+CUST-1657,1,10,2238.61,North America,4,4,4,444,4.0,Champions
+CUST-1658,768,7,1137.22,Europe,1,2,2,122,1.67,Lost / Hibernating
+CUST-1659,112,5,1257.7199999999998,Europe,3,1,2,312,2.0,Lost / Hibernating
+CUST-1660,1,16,2813.58,North America,4,5,5,455,4.67,Champions
+CUST-1661,1,9,3022.03,Latin America,4,4,5,445,4.33,Champions
+CUST-1662,1,4,1194.9,Europe,4,1,2,412,2.33,New Customers
+CUST-1663,1,5,1506.25,North America,4,1,3,413,2.67,Potential Loyalists
+CUST-1664,357,4,863.07,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1665,1,6,1612.41,North America,4,2,3,423,3.0,Potential Loyalists
+CUST-1666,1,11,2876.26,North America,5,5,5,555,5.0,Champions
+CUST-1667,454,6,1504.38,North America,1,2,3,123,2.0,Cant Lose Them
+CUST-1668,1,10,1503.1200000000001,North America,5,4,3,543,4.0,Loyal Customers
+CUST-1669,171,10,1916.15,North America,2,4,4,244,3.33,At Risk
+CUST-1670,100,8,3397.2200000000003,North America,3,3,5,335,3.67,Loyal Customers
+CUST-1671,766,10,2568.31,Asia-Pacific,1,4,5,145,3.33,At Risk
+CUST-1672,1,13,3573.4700000000003,North America,5,5,5,555,5.0,Champions
+CUST-1673,1,6,895.2,Europe,5,2,1,521,2.67,Lost / Hibernating
+CUST-1674,113,7,2338.36,Europe,3,2,4,324,3.0,Potential Loyalists
+CUST-1675,384,9,1760.14,Latin America,1,4,3,143,2.67,At Risk
+CUST-1676,531,9,2027.3600000000001,North America,1,4,4,144,3.0,At Risk
+CUST-1677,308,5,1370.15,North America,2,1,2,212,1.67,Lost / Hibernating
+CUST-1678,1,9,1117.18,Latin America,5,4,2,542,3.67,Loyal Customers
+CUST-1679,1,12,3165.92,Asia-Pacific,5,5,5,555,5.0,Champions
+CUST-1680,1,12,5976.29,Asia-Pacific,5,5,5,555,5.0,Champions
+CUST-1681,70,12,1609.74,North America,3,5,3,353,3.67,Loyal Customers
+CUST-1682,186,5,671.91,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1683,437,8,884.3000000000001,Europe,1,3,1,131,1.67,At Risk
+CUST-1684,85,7,1116.8,Latin America,3,2,2,322,2.33,Lost / Hibernating
+CUST-1685,1,6,975.06,Europe,5,2,2,522,3.0,Lost / Hibernating
+CUST-1686,1,6,1405.1599999999999,Europe,5,2,3,523,3.33,Potential Loyalists
+CUST-1687,1,10,930.55,North America,5,4,1,541,3.33,Loyal Customers
+CUST-1688,455,3,1081.6,Asia-Pacific,1,1,2,112,1.33,Lost / Hibernating
+CUST-1689,376,7,1979.5700000000002,North America,1,2,4,124,2.33,Cant Lose Them
+CUST-1690,1,5,997.47,North America,5,1,2,512,2.67,New Customers
+CUST-1691,1,10,2456.76,Europe,5,4,4,544,4.33,Champions
+CUST-1692,1,9,2233.7,Europe,5,4,4,544,4.33,Champions
+CUST-1693,1,7,986.11,North America,5,2,2,522,3.0,Lost / Hibernating
+CUST-1694,1,8,940.89,North America,5,3,2,532,3.33,Loyal Customers
+CUST-1695,1,9,820.29,Europe,5,4,1,541,3.33,Loyal Customers
+CUST-1696,200,5,1134.73,North America,2,1,2,212,1.67,Lost / Hibernating
+CUST-1697,170,7,2019.75,Europe,2,2,4,224,2.67,Cant Lose Them
+CUST-1698,1,9,1959.77,North America,5,4,4,544,4.33,Champions
+CUST-1699,199,10,1989.73,Europe,2,4,4,244,3.33,At Risk
+CUST-1700,240,8,2425.2,Europe,2,3,4,234,3.0,At Risk
+CUST-1701,1,4,931.7,North America,5,1,2,512,2.67,New Customers
+CUST-1702,1,5,1211.3600000000001,North America,5,1,2,512,2.67,New Customers
+CUST-1703,302,7,858.45,North America,2,2,1,221,1.67,Lost / Hibernating
+CUST-1704,97,7,2885.71,North America,3,2,5,325,3.33,Potential Loyalists
+CUST-1705,1,10,2894.9700000000003,Latin America,5,4,5,545,4.67,Champions
+CUST-1706,629,7,606.06,North America,1,2,1,121,1.33,Lost / Hibernating
+CUST-1707,1,7,3499.27,Asia-Pacific,5,3,5,535,4.33,Loyal Customers
+CUST-1708,1,3,526.46,North America,5,1,1,511,2.33,New Customers
+CUST-1709,384,12,2521.93,Europe,1,5,4,154,3.33,At Risk
+CUST-1710,42,5,636.49,Asia-Pacific,3,1,1,311,1.67,Lost / Hibernating
+CUST-1711,287,7,1758.3700000000001,Europe,2,3,3,233,2.67,At Risk
+CUST-1712,1,8,1318.78,Europe,5,3,2,532,3.33,Loyal Customers
+CUST-1713,175,3,1255.3600000000001,Europe,2,1,2,212,1.67,Lost / Hibernating
+CUST-1714,1,5,730.12,North America,5,1,1,511,2.33,New Customers
+CUST-1715,103,13,3977.38,Latin America,3,5,5,355,4.33,Loyal Customers
+CUST-1716,4,8,1593.3600000000001,Asia-Pacific,3,3,3,333,3.0,Loyal Customers
+CUST-1717,1,5,1080.69,Latin America,5,1,2,512,2.67,New Customers
+CUST-1718,472,7,2083.12,North America,1,3,4,134,2.67,At Risk
+CUST-1719,1,6,1131.26,Asia-Pacific,5,2,2,522,3.0,Lost / Hibernating
+CUST-1720,59,6,2172.91,Latin America,3,2,4,324,3.0,Potential Loyalists
+CUST-1721,332,1,37.53,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1722,416,7,1140.05,North America,1,3,2,132,2.0,At Risk
+CUST-1723,1,6,1230.57,Asia-Pacific,5,2,2,522,3.0,Lost / Hibernating
+CUST-1724,107,10,2071.92,Europe,3,4,4,344,3.67,Loyal Customers
+CUST-1725,160,6,2367.1800000000003,Asia-Pacific,2,2,4,224,2.67,Cant Lose Them
+CUST-1726,83,14,5562.25,North America,3,5,5,355,4.33,Loyal Customers
+CUST-1727,364,9,1471.81,Asia-Pacific,2,4,3,243,3.0,At Risk
+CUST-1728,675,8,2262.31,North America,1,3,4,134,2.67,At Risk
+CUST-1729,22,9,1181.24,North America,3,4,2,342,3.0,Loyal Customers
+CUST-1730,259,12,1915.82,North America,2,5,4,254,3.67,At Risk
+CUST-1731,397,7,1083.33,Asia-Pacific,1,3,2,132,2.0,At Risk
+CUST-1732,47,8,2056.89,Europe,3,3,4,334,3.33,Loyal Customers
+CUST-1733,488,5,534.96,Europe,1,1,1,111,1.0,Lost / Hibernating
+CUST-1734,1,7,825.65,North America,5,3,1,531,3.0,Loyal Customers
+CUST-1735,1,9,2550.62,Asia-Pacific,5,4,4,544,4.33,Champions
+CUST-1736,254,7,2447.35,North America,2,3,4,234,3.0,At Risk
+CUST-1737,1,11,1614.49,Asia-Pacific,5,5,3,553,4.33,Loyal Customers
+CUST-1738,1,5,1076.93,Europe,5,1,2,512,2.67,New Customers
+CUST-1739,232,4,1288.21,North America,2,1,2,212,1.67,Lost / Hibernating
+CUST-1740,1,3,767.5699999999999,Europe,5,1,1,511,2.33,New Customers
+CUST-1741,253,11,1264.09,North America,2,5,2,252,3.0,At Risk
+CUST-1742,1,8,932.42,Asia-Pacific,5,3,2,532,3.33,Loyal Customers
+CUST-1743,303,14,3086.63,Europe,2,5,5,255,4.0,At Risk
+CUST-1744,443,4,486.66,North America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1745,1,10,1593.14,Asia-Pacific,5,4,3,543,4.0,Loyal Customers
+CUST-1746,1,7,1702.1,North America,5,3,3,533,3.67,Loyal Customers
+CUST-1747,197,7,2040.67,Europe,2,3,4,234,3.0,At Risk
+CUST-1748,1,10,1980.42,Latin America,5,4,4,544,4.33,Champions
+CUST-1749,1,4,920.0600000000001,Europe,5,1,1,511,2.33,New Customers
+CUST-1750,1,8,2035.69,North America,5,3,4,534,4.0,Loyal Customers
+CUST-1751,1,9,2993.69,Latin America,5,4,5,545,4.67,Champions
+CUST-1752,1,9,1793.01,Europe,5,4,3,543,4.0,Loyal Customers
+CUST-1753,1,7,1715.73,North America,5,3,3,533,3.67,Loyal Customers
+CUST-1754,1,9,2078.81,North America,5,4,4,544,4.33,Champions
+CUST-1755,124,15,3138.25,Asia-Pacific,3,5,5,355,4.33,Loyal Customers
+CUST-1756,1,12,1730.96,Europe,5,5,3,553,4.33,Loyal Customers
+CUST-1757,318,10,2604.75,Europe,2,4,5,245,3.67,At Risk
+CUST-1758,99,8,953.09,Asia-Pacific,3,3,2,332,2.67,Loyal Customers
+CUST-1759,2,7,1565.47,Asia-Pacific,3,3,3,333,3.0,Loyal Customers
+CUST-1760,317,8,1374.3,North America,2,3,2,232,2.33,At Risk
+CUST-1761,1,16,2410.7,North America,5,5,4,554,4.67,Champions
+CUST-1762,1,10,3143.27,North America,5,4,5,545,4.67,Champions
+CUST-1763,539,2,569.96,Asia-Pacific,1,1,1,111,1.0,Lost / Hibernating
+CUST-1764,1,11,1527.7,North America,5,5,3,553,4.33,Loyal Customers
+CUST-1765,350,9,3840.91,Europe,2,4,5,245,3.67,At Risk
+CUST-1766,1,2,146.03,Asia-Pacific,5,1,1,511,2.33,New Customers
+CUST-1767,127,10,2521.08,Asia-Pacific,3,4,4,344,3.67,Loyal Customers
+CUST-1768,86,9,2108.17,North America,3,4,4,344,3.67,Loyal Customers
+CUST-1769,439,12,3152.96,Asia-Pacific,1,5,5,155,3.67,At Risk
+CUST-1770,1,9,3256.17,North America,5,4,5,545,4.67,Champions
+CUST-1771,1,12,2425.92,Asia-Pacific,5,5,4,554,4.67,Champions
+CUST-1772,496,4,3189.5499999999997,North America,1,1,5,115,2.33,Cant Lose Them
+CUST-1773,1,8,4358.26,North America,5,3,5,535,4.33,Loyal Customers
+CUST-1774,471,8,1526.26,Asia-Pacific,1,3,3,133,2.33,At Risk
+CUST-1775,1,6,1161.61,North America,5,2,2,522,3.0,Lost / Hibernating
+CUST-1776,1,9,2503.89,North America,5,4,4,544,4.33,Champions
+CUST-1777,551,1,38.98,Asia-Pacific,1,1,1,111,1.0,Lost / Hibernating
+CUST-1778,135,6,900.61,Asia-Pacific,3,2,1,321,2.0,Lost / Hibernating
+CUST-1779,1,7,1403.85,Europe,5,3,3,533,3.67,Loyal Customers
+CUST-1780,1,5,1784.08,Europe,5,1,3,513,3.0,Potential Loyalists
+CUST-1781,140,6,1296.74,Europe,3,2,2,322,2.33,Lost / Hibernating
+CUST-1782,1,9,1932.49,North America,5,4,4,544,4.33,Champions
+CUST-1783,1,8,2175.5899999999997,North America,5,3,4,534,4.0,Loyal Customers
+CUST-1784,1,8,2402.92,North America,5,3,4,534,4.0,Loyal Customers
+CUST-1785,1,5,375.55,Latin America,5,1,1,511,2.33,New Customers
+CUST-1786,96,7,1339.93,Europe,3,3,2,332,2.67,Loyal Customers
+CUST-1787,107,6,673.04,Europe,3,2,1,321,2.0,Lost / Hibernating
+CUST-1788,165,3,628.9200000000001,Europe,2,1,1,211,1.33,Lost / Hibernating
+CUST-1789,280,12,2405.64,Latin America,2,5,4,254,3.67,At Risk
+CUST-1790,120,12,3189.07,North America,3,5,5,355,4.33,Loyal Customers
+CUST-1791,203,6,1362.52,Europe,2,2,2,222,2.0,Lost / Hibernating
+CUST-1792,1,10,1345.8700000000001,Europe,5,4,2,542,3.67,Loyal Customers
+CUST-1793,1,6,794.8100000000001,Europe,5,2,1,521,2.67,Lost / Hibernating
+CUST-1794,595,6,1029.05,North America,1,2,2,122,1.67,Lost / Hibernating
+CUST-1795,1,12,1399.82,Asia-Pacific,5,5,3,553,4.33,Loyal Customers
+CUST-1796,670,11,2513.58,Latin America,1,5,4,154,3.33,At Risk
+CUST-1797,36,11,2375.75,Europe,3,5,4,354,4.0,Loyal Customers
+CUST-1798,229,6,740.1800000000001,Europe,2,2,1,221,1.67,Lost / Hibernating
+CUST-1799,1,5,629.45,Latin America,5,1,1,511,2.33,New Customers
+CUST-1800,1,11,2580.48,Asia-Pacific,5,5,5,555,5.0,Champions
+CUST-1801,1,9,1136.21,North America,5,4,2,542,3.67,Loyal Customers
+CUST-1802,1,10,2990.08,Europe,5,4,5,545,4.67,Champions
+CUST-1803,113,16,3736.7400000000002,Europe,3,5,5,355,4.33,Loyal Customers
+CUST-1804,518,10,1612.73,Europe,1,4,3,143,2.67,At Risk
+CUST-1805,120,8,1418.04,Asia-Pacific,3,3,3,333,3.0,Loyal Customers
+CUST-1806,146,7,2201.73,Latin America,2,3,4,234,3.0,At Risk
+CUST-1807,179,5,953.9200000000001,Latin America,2,1,2,212,1.67,Lost / Hibernating
+CUST-1808,452,7,1852.1,Europe,1,3,3,133,2.33,At Risk
+CUST-1809,1,11,1691.8400000000001,North America,5,5,3,553,4.33,Loyal Customers
+CUST-1810,1,7,837.11,Latin America,5,3,1,531,3.0,Loyal Customers
+CUST-1811,1,12,1154.25,Asia-Pacific,5,5,2,552,4.0,Loyal Customers
+CUST-1812,1,14,2926.54,North America,5,5,5,555,5.0,Champions
+CUST-1813,1,14,2420.86,Latin America,5,5,4,554,4.67,Champions
+CUST-1814,274,5,1322.1399999999999,Asia-Pacific,2,1,2,212,1.67,Lost / Hibernating
+CUST-1815,1,11,1453.12,Europe,5,5,3,553,4.33,Loyal Customers
+CUST-1816,156,6,1758.15,Europe,2,2,3,223,2.33,Cant Lose Them
+CUST-1817,442,8,1574.65,North America,1,3,3,133,2.33,At Risk
+CUST-1818,459,7,881.6899999999999,North America,1,3,1,131,1.67,At Risk
+CUST-1819,285,7,2293.79,North America,2,3,4,234,3.0,At Risk
+CUST-1820,49,9,888.82,Asia-Pacific,3,4,1,341,2.67,Loyal Customers
+CUST-1821,1,7,1818.1,North America,5,3,3,533,3.67,Loyal Customers
+CUST-1822,1,8,1369.48,North America,5,3,2,532,3.33,Loyal Customers
+CUST-1823,578,13,2096.65,North America,1,5,4,154,3.33,At Risk
+CUST-1824,1,9,2589.9,Europe,5,4,5,545,4.67,Champions
+CUST-1825,78,11,1468.55,Latin America,3,5,3,353,3.67,Loyal Customers
+CUST-1826,1,7,1958.8400000000001,North America,5,3,4,534,4.0,Loyal Customers
+CUST-1827,83,6,875.55,North America,3,2,1,321,2.0,Lost / Hibernating
+CUST-1828,1,5,874.04,Asia-Pacific,5,1,1,511,2.33,New Customers
+CUST-1829,173,7,3687.77,Europe,2,3,5,235,3.33,At Risk
+CUST-1830,329,2,453.47,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1831,1,6,1642.67,Europe,5,2,3,523,3.33,Potential Loyalists
+CUST-1832,381,5,1211.24,North America,1,1,2,112,1.33,Lost / Hibernating
+CUST-1833,19,10,1598.01,North America,3,4,3,343,3.33,Loyal Customers
+CUST-1834,718,3,740.95,Europe,1,1,1,111,1.0,Lost / Hibernating
+CUST-1835,1,8,1249.6499999999999,Europe,5,3,2,532,3.33,Loyal Customers
+CUST-1836,1,17,4587.53,Latin America,5,5,5,555,5.0,Champions
+CUST-1837,247,8,1535.81,North America,2,3,3,233,2.67,At Risk
+CUST-1838,121,14,2885.38,Europe,3,5,5,355,4.33,Loyal Customers
+CUST-1839,1,10,1124.05,Europe,5,4,2,542,3.67,Loyal Customers
+CUST-1840,1,9,1404.3300000000002,North America,5,4,3,543,4.0,Loyal Customers
+CUST-1841,382,2,1002.26,Europe,1,1,2,112,1.33,Lost / Hibernating
+CUST-1842,1,6,535.22,North America,5,2,1,521,2.67,Lost / Hibernating
+CUST-1843,1,9,5182.31,Latin America,5,4,5,545,4.67,Champions
+CUST-1844,545,5,524.05,North America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1845,1,6,644.41,Europe,5,2,1,521,2.67,Lost / Hibernating
+CUST-1846,262,7,1702.42,North America,2,3,3,233,2.67,At Risk
+CUST-1847,1,11,3719.21,Latin America,5,5,5,555,5.0,Champions
+CUST-1848,272,13,2873.33,Europe,2,5,5,255,4.0,At Risk
+CUST-1849,130,8,1994.85,Europe,3,3,4,334,3.33,Loyal Customers
+CUST-1850,232,6,782.4300000000001,North America,2,2,1,221,1.67,Lost / Hibernating
+CUST-1851,574,6,859.77,Asia-Pacific,1,2,1,121,1.33,Lost / Hibernating
+CUST-1852,255,7,1829.6999999999998,North America,2,3,3,233,2.67,At Risk
+CUST-1853,83,5,1095.42,Asia-Pacific,3,1,2,312,2.0,Lost / Hibernating
+CUST-1854,1,11,2066.65,North America,5,5,4,554,4.67,Champions
+CUST-1855,427,5,2470.16,North America,1,1,4,114,2.0,Cant Lose Them
+CUST-1856,269,7,1450.05,North America,2,3,3,233,2.67,At Risk
+CUST-1857,1,9,1337.62,Europe,5,4,2,542,3.67,Loyal Customers
+CUST-1858,530,4,489.40999999999997,Europe,1,1,1,111,1.0,Lost / Hibernating
+CUST-1859,419,8,1450.29,North America,1,3,3,133,2.33,At Risk
+CUST-1860,2,11,5238.86,Asia-Pacific,3,5,5,355,4.33,Loyal Customers
+CUST-1861,650,8,1399.47,Europe,1,3,3,133,2.33,At Risk
+CUST-1862,392,6,1270.63,Europe,1,2,2,122,1.67,Lost / Hibernating
+CUST-1863,240,8,1416.99,Europe,2,3,3,233,2.67,At Risk
+CUST-1864,378,5,1264.18,Europe,1,1,2,112,1.33,Lost / Hibernating
+CUST-1865,1,9,2049.98,Europe,5,4,4,544,4.33,Champions
+CUST-1866,1,6,2797.51,North America,5,2,5,525,4.0,Potential Loyalists
+CUST-1867,57,12,2753.0299999999997,North America,3,5,5,355,4.33,Loyal Customers
+CUST-1868,1,8,1278.74,Asia-Pacific,5,3,2,532,3.33,Loyal Customers
+CUST-1869,484,9,1273.46,Latin America,1,4,2,142,2.33,At Risk
+CUST-1870,388,7,1542.26,North America,1,3,3,133,2.33,At Risk
+CUST-1871,1,12,4719.2,North America,5,5,5,555,5.0,Champions
+CUST-1872,74,9,2298.27,Europe,3,4,4,344,3.67,Loyal Customers
+CUST-1873,408,8,925.3,Europe,1,3,1,131,1.67,At Risk
+CUST-1874,399,13,4454.5,North America,1,5,5,155,3.67,At Risk
+CUST-1875,1,10,1778.22,North America,5,4,3,543,4.0,Loyal Customers
+CUST-1876,250,6,502.23,Asia-Pacific,2,2,1,221,1.67,Lost / Hibernating
+CUST-1877,1,13,2780.94,Europe,5,5,5,555,5.0,Champions
+CUST-1878,1,5,841.12,North America,5,1,1,511,2.33,New Customers
+CUST-1879,450,6,703.71,North America,1,2,1,121,1.33,Lost / Hibernating
+CUST-1880,393,6,1599.43,North America,1,2,3,123,2.0,Cant Lose Them
+CUST-1881,8,10,3047.74,Europe,3,4,5,345,4.0,Loyal Customers
+CUST-1882,1,9,2082.04,North America,5,4,4,544,4.33,Champions
+CUST-1883,1,7,1763.6100000000001,North America,5,3,3,533,3.67,Loyal Customers
+CUST-1884,1,7,969.1,Asia-Pacific,5,3,2,532,3.33,Loyal Customers
+CUST-1885,630,7,1109.14,North America,1,3,2,132,2.0,At Risk
+CUST-1886,1,4,798.03,Europe,5,1,1,511,2.33,New Customers
+CUST-1887,93,6,1827.47,North America,3,2,3,323,2.67,Potential Loyalists
+CUST-1888,1,7,971.72,North America,5,3,2,532,3.33,Loyal Customers
+CUST-1889,1,9,2138.1000000000004,North America,5,4,4,544,4.33,Champions
+CUST-1890,1,8,1650.04,Asia-Pacific,5,3,3,533,3.67,Loyal Customers
+CUST-1891,377,5,489.68,Asia-Pacific,1,1,1,111,1.0,Lost / Hibernating
+CUST-1892,1,5,897.72,Asia-Pacific,5,1,1,511,2.33,New Customers
+CUST-1893,1,10,1928.56,North America,5,4,4,544,4.33,Champions
+CUST-1894,1,7,1484.89,Europe,5,3,3,533,3.67,Loyal Customers
+CUST-1895,151,9,1972.74,North America,2,4,4,244,3.33,At Risk
+CUST-1896,1,4,570.85,North America,5,1,1,511,2.33,New Customers
+CUST-1897,1,12,2208.01,Asia-Pacific,5,5,4,554,4.67,Champions
+CUST-1898,441,9,1439.44,North America,1,4,3,143,2.67,At Risk
+CUST-1899,371,5,3023.44,North America,1,1,5,115,2.33,Cant Lose Them
+CUST-1900,1,13,3986.2,North America,5,5,5,555,5.0,Champions
+CUST-1901,1,5,942.3900000000001,North America,5,1,2,512,2.67,New Customers
+CUST-1902,548,7,1388.3600000000001,North America,1,3,2,132,2.0,At Risk
+CUST-1903,67,16,2644.74,Europe,3,5,5,355,4.33,Loyal Customers
+CUST-1904,1,10,1064.31,Europe,5,4,2,542,3.67,Loyal Customers
+CUST-1905,477,7,1080.84,Asia-Pacific,1,3,2,132,2.0,At Risk
+CUST-1906,1,6,1235.44,Asia-Pacific,5,2,2,522,3.0,Lost / Hibernating
+CUST-1907,227,11,2299.12,North America,2,5,4,254,3.67,At Risk
+CUST-1908,1,11,2770.19,North America,5,5,5,555,5.0,Champions
+CUST-1909,291,6,1801.67,North America,2,2,3,223,2.33,Cant Lose Them
+CUST-1910,1,11,3771.3,Europe,5,5,5,555,5.0,Champions
+CUST-1911,1,9,1406.84,North America,5,4,3,543,4.0,Loyal Customers
+CUST-1912,267,7,822.26,Europe,2,3,1,231,2.0,At Risk
+CUST-1913,52,4,528.46,Europe,3,1,1,311,1.67,Lost / Hibernating
+CUST-1914,8,5,1015.95,Europe,3,1,2,312,2.0,Lost / Hibernating
+CUST-1915,1,12,2689.9,Europe,5,5,5,555,5.0,Champions
+CUST-1916,21,12,2893.33,North America,3,5,5,355,4.33,Loyal Customers
+CUST-1917,1,9,1334.25,Latin America,5,4,2,542,3.67,Loyal Customers
+CUST-1918,196,7,2546.77,Asia-Pacific,2,3,4,234,3.0,At Risk
+CUST-1919,593,10,3212.58,North America,1,4,5,145,3.33,At Risk
+CUST-1920,50,2,504.08000000000004,Asia-Pacific,3,1,1,311,1.67,Lost / Hibernating
+CUST-1921,451,6,1315.08,Europe,1,2,2,122,1.67,Lost / Hibernating
+CUST-1922,1,4,602.28,Asia-Pacific,5,1,1,511,2.33,New Customers
+CUST-1923,347,9,2095.98,Asia-Pacific,2,4,4,244,3.33,At Risk
+CUST-1924,1,4,577.17,Europe,5,1,1,511,2.33,New Customers
+CUST-1925,188,4,925.69,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1926,88,7,993.29,North America,3,3,2,332,2.67,Loyal Customers
+CUST-1927,504,8,1805.8600000000001,Europe,1,3,3,133,2.33,At Risk
+CUST-1928,159,5,882.04,Europe,2,1,1,211,1.33,Lost / Hibernating
+CUST-1929,1,12,3175.49,North America,5,5,5,555,5.0,Champions
+CUST-1930,1,9,3998.06,North America,5,4,5,545,4.67,Champions
+CUST-1931,284,9,3406.3,Asia-Pacific,2,4,5,245,3.67,At Risk
+CUST-1932,255,5,686.66,Latin America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1933,1,11,2215.87,Europe,5,5,4,554,4.67,Champions
+CUST-1934,348,7,1164.25,North America,2,3,2,232,2.33,At Risk
+CUST-1935,1,9,1260.04,North America,5,4,2,542,3.67,Loyal Customers
+CUST-1936,1,15,2650.84,North America,5,5,5,555,5.0,Champions
+CUST-1937,1,8,1499.95,Latin America,5,3,3,533,3.67,Loyal Customers
+CUST-1938,661,5,874.1700000000001,North America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1939,499,9,2123.56,Europe,1,4,4,144,3.0,At Risk
+CUST-1940,313,11,2017.39,North America,2,5,4,254,3.67,At Risk
+CUST-1941,1,4,644.6,Europe,5,1,1,511,2.33,New Customers
+CUST-1942,1,10,2323.47,Europe,5,4,4,544,4.33,Champions
+CUST-1943,106,10,2674.77,Asia-Pacific,3,4,5,345,4.0,Loyal Customers
+CUST-1944,500,9,2987.53,North America,1,4,5,145,3.33,At Risk
+CUST-1945,144,7,866.38,North America,2,3,1,231,2.0,At Risk
+CUST-1946,32,13,2885.47,North America,3,5,5,355,4.33,Loyal Customers
+CUST-1947,1,13,2783.48,Latin America,5,5,5,555,5.0,Champions
+CUST-1948,1,3,1229.27,Asia-Pacific,5,1,2,512,2.67,New Customers
+CUST-1949,219,5,1708.49,Europe,2,1,3,213,2.0,Cant Lose Them
+CUST-1950,240,5,597.5699999999999,Europe,2,1,1,211,1.33,Lost / Hibernating
+CUST-1951,334,6,2018.72,Europe,2,2,4,224,2.67,Cant Lose Them
+CUST-1952,1,4,989.95,North America,5,1,2,512,2.67,New Customers
+CUST-1953,1,7,587.23,Latin America,5,3,1,531,3.0,Loyal Customers
+CUST-1954,512,5,1524.43,Europe,1,1,3,113,1.67,Cant Lose Them
+CUST-1955,1,8,3122.54,North America,5,3,5,535,4.33,Loyal Customers
+CUST-1956,574,7,1580.58,Europe,1,3,3,133,2.33,At Risk
+CUST-1957,147,3,941.44,North America,2,1,2,212,1.67,Lost / Hibernating
+CUST-1958,314,9,1440.43,North America,2,4,3,243,3.0,At Risk
+CUST-1959,411,7,846.49,Asia-Pacific,1,3,1,131,1.67,At Risk
+CUST-1960,1,11,2536.4700000000003,North America,5,5,4,554,4.67,Champions
+CUST-1961,509,6,1523.1200000000001,Europe,1,2,3,123,2.0,Cant Lose Them
+CUST-1962,291,7,1427.0,North America,2,3,3,233,2.67,At Risk
+CUST-1963,574,2,466.96000000000004,North America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1964,424,11,2169.65,North America,1,5,4,154,3.33,At Risk
+CUST-1965,331,3,608.51,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-1966,6,4,720.49,Asia-Pacific,3,1,1,311,1.67,Lost / Hibernating
+CUST-1967,1,4,932.4000000000001,North America,5,1,2,512,2.67,New Customers
+CUST-1968,464,7,816.22,Europe,1,3,1,131,1.67,At Risk
+CUST-1969,582,7,1314.0,Europe,1,3,2,132,2.0,At Risk
+CUST-1970,275,9,2273.41,Europe,2,4,4,244,3.33,At Risk
+CUST-1971,1,8,2040.27,Latin America,5,3,4,534,4.0,Loyal Customers
+CUST-1972,1,13,3661.81,Asia-Pacific,5,5,5,555,5.0,Champions
+CUST-1973,79,9,872.1700000000001,North America,3,4,1,341,2.67,Loyal Customers
+CUST-1974,124,6,1104.99,North America,3,2,2,322,2.33,Lost / Hibernating
+CUST-1975,154,6,540.67,North America,2,2,1,221,1.67,Lost / Hibernating
+CUST-1976,41,7,766.38,Europe,3,3,1,331,2.33,Loyal Customers
+CUST-1977,1,6,1182.67,North America,5,2,2,522,3.0,Lost / Hibernating
+CUST-1978,461,9,1982.22,Europe,1,4,4,144,3.0,At Risk
+CUST-1979,66,4,945.51,Europe,3,1,2,312,2.0,Lost / Hibernating
+CUST-1980,221,7,2044.93,North America,2,3,4,234,3.0,At Risk
+CUST-1981,1,11,1697.75,Asia-Pacific,5,5,3,553,4.33,Loyal Customers
+CUST-1982,599,7,1354.3600000000001,North America,1,3,2,132,2.0,At Risk
+CUST-1983,1,6,1339.17,North America,5,2,2,522,3.0,Lost / Hibernating
+CUST-1984,1,8,1069.49,Asia-Pacific,5,3,2,532,3.33,Loyal Customers
+CUST-1985,365,9,1403.29,Europe,2,4,3,243,3.0,At Risk
+CUST-1986,412,6,1428.5,Europe,1,2,3,123,2.0,Cant Lose Them
+CUST-1987,274,8,3407.53,Europe,2,3,5,235,3.33,At Risk
+CUST-1988,1,13,2197.1,North America,5,5,4,554,4.67,Champions
+CUST-1989,509,17,4062.38,Asia-Pacific,1,5,5,155,3.67,At Risk
+CUST-1990,1,10,1579.58,Asia-Pacific,5,4,3,543,4.0,Loyal Customers
+CUST-1991,1,12,2552.08,Europe,5,5,4,554,4.67,Champions
+CUST-1992,1,4,1126.74,North America,5,1,2,512,2.67,New Customers
+CUST-1993,1,12,2700.7599999999998,Europe,5,5,5,555,5.0,Champions
+CUST-1994,1,6,1067.8600000000001,North America,5,2,2,522,3.0,Lost / Hibernating
+CUST-1995,54,6,779.16,North America,3,2,1,321,2.0,Lost / Hibernating
+CUST-1996,9,13,1650.09,Latin America,3,5,3,353,3.67,Loyal Customers
+CUST-1997,425,6,1353.61,North America,1,2,2,122,1.67,Lost / Hibernating
+CUST-1998,611,5,924.22,Latin America,1,1,1,111,1.0,Lost / Hibernating
+CUST-1999,1,4,729.21,Europe,5,1,1,511,2.33,New Customers
+CUST-2000,1,7,905.22,North America,5,3,1,531,3.0,Loyal Customers
+CUST-2001,1,9,1156.8400000000001,Europe,5,4,2,542,3.67,Loyal Customers
+CUST-2002,304,3,636.22,Asia-Pacific,2,1,1,211,1.33,Lost / Hibernating
+CUST-2003,31,12,3312.79,Asia-Pacific,3,5,5,355,4.33,Loyal Customers
+CUST-2004,160,7,995.15,Asia-Pacific,2,3,2,232,2.33,At Risk
+CUST-2005,698,5,1026.9,Europe,1,1,2,112,1.33,Lost / Hibernating
+CUST-2006,358,9,2919.69,Europe,2,4,5,245,3.67,At Risk
+CUST-2007,66,7,1616.8400000000001,Asia-Pacific,3,3,3,333,3.0,Loyal Customers
+CUST-2008,1,6,1032.18,North America,5,2,2,522,3.0,Lost / Hibernating
+CUST-2009,44,6,410.76,Europe,3,2,1,321,2.0,Lost / Hibernating
+CUST-2010,654,3,383.09000000000003,North America,1,1,1,111,1.0,Lost / Hibernating
+CUST-2011,1,12,2365.11,Latin America,5,5,4,554,4.67,Champions
+CUST-2012,1,5,506.52,Latin America,5,1,1,511,2.33,New Customers
+CUST-2013,111,8,2132.93,North America,3,3,4,334,3.33,Loyal Customers
+CUST-2014,104,5,1351.49,Asia-Pacific,3,1,2,312,2.0,Lost / Hibernating
+CUST-2015,122,8,1353.87,Latin America,3,3,2,332,2.67,Loyal Customers
+CUST-2016,1,6,1063.0,North America,5,2,2,522,3.0,Lost / Hibernating
+CUST-2017,1,11,3445.4900000000002,Europe,5,5,5,555,5.0,Champions
+CUST-2018,185,10,2210.9300000000003,Latin America,2,4,4,244,3.33,At Risk
+CUST-2019,1,3,507.96000000000004,North America,5,1,1,511,2.33,New Customers
+CUST-2020,1,10,1442.99,Europe,5,4,3,543,4.0,Loyal Customers
+CUST-2021,483,7,835.61,North America,1,3,1,131,1.67,At Risk
+CUST-2022,429,8,2586.32,Latin America,1,3,5,135,3.0,At Risk
+CUST-2023,1,4,767.2,Latin America,5,1,1,511,2.33,New Customers
+CUST-2024,244,7,878.4,Latin America,2,3,1,231,2.0,At Risk
+CUST-2025,568,4,421.29,Europe,1,1,1,111,1.0,Lost / Hibernating
+CUST-2026,1,6,693.43,Asia-Pacific,5,2,1,521,2.67,Lost / Hibernating
+CUST-2027,220,10,1949.66,Asia-Pacific,2,4,4,244,3.33,At Risk
+CUST-2028,180,6,1251.49,North America,2,2,2,222,2.0,Lost / Hibernating
+CUST-2029,1,13,3029.34,Asia-Pacific,5,5,5,555,5.0,Champions
+CUST-2030,609,7,2663.55,North America,1,3,5,135,3.0,At Risk
+CUST-2031,370,8,1426.23,Europe,2,3,3,233,2.67,At Risk
+CUST-2032,218,3,781.97,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-2033,1,8,1322.97,North America,5,3,2,532,3.33,Loyal Customers
+CUST-2034,118,9,2340.56,North America,3,4,4,344,3.67,Loyal Customers
+CUST-2035,1,9,766.3199999999999,Europe,5,4,1,541,3.33,Loyal Customers
+CUST-2036,1,8,1168.22,North America,5,3,2,532,3.33,Loyal Customers
+CUST-2037,221,8,911.83,Asia-Pacific,2,3,1,231,2.0,At Risk
+CUST-2038,1,7,912.0600000000001,North America,5,3,1,531,3.0,Loyal Customers
+CUST-2039,10,6,713.55,North America,3,2,1,321,2.0,Lost / Hibernating
+CUST-2040,1,8,4025.23,Europe,5,3,5,535,4.33,Loyal Customers
+CUST-2041,1,10,3942.3999999999996,Asia-Pacific,5,4,5,545,4.67,Champions
+CUST-2042,1,13,3612.07,North America,5,5,5,555,5.0,Champions
+CUST-2043,1,5,418.25,Europe,5,1,1,511,2.33,New Customers
+CUST-2044,27,9,1863.2,Asia-Pacific,3,4,4,344,3.67,Loyal Customers
+CUST-2045,119,9,2102.63,Europe,3,4,4,344,3.67,Loyal Customers
+CUST-2046,245,5,828.6500000000001,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-2047,1,8,1282.16,North America,5,3,2,532,3.33,Loyal Customers
+CUST-2048,114,12,1596.78,Asia-Pacific,3,5,3,353,3.67,Loyal Customers
+CUST-2049,1,11,5919.55,North America,5,5,5,555,5.0,Champions
+CUST-2050,556,5,743.88,Asia-Pacific,1,1,1,111,1.0,Lost / Hibernating
+CUST-2051,1,10,2388.81,Europe,5,4,4,544,4.33,Champions
+CUST-2052,1,7,1103.3,Latin America,5,3,2,532,3.33,Loyal Customers
+CUST-2053,169,11,3046.49,Asia-Pacific,2,5,5,255,4.0,At Risk
+CUST-2054,1,7,918.62,Latin America,5,3,1,531,3.0,Loyal Customers
+CUST-2055,1,8,2666.16,North America,5,3,5,535,4.33,Loyal Customers
+CUST-2056,228,4,1686.5900000000001,Asia-Pacific,2,1,3,213,2.0,Cant Lose Them
+CUST-2057,232,10,2391.78,Europe,2,4,4,244,3.33,At Risk
+CUST-2058,1,10,2609.32,Europe,5,4,5,545,4.67,Champions
+CUST-2059,1,13,2293.03,Europe,5,5,4,554,4.67,Champions
+CUST-2060,1,10,1995.56,Asia-Pacific,5,4,4,544,4.33,Champions
+CUST-2061,642,7,1970.27,Latin America,1,3,4,134,2.67,At Risk
+CUST-2062,397,8,1269.65,Asia-Pacific,1,3,2,132,2.0,At Risk
+CUST-2063,731,8,1502.64,Europe,1,3,3,133,2.33,At Risk
+CUST-2064,1,7,775.6,Europe,5,3,1,531,3.0,Loyal Customers
+CUST-2065,1,10,1913.3,Asia-Pacific,5,4,4,544,4.33,Champions
+CUST-2066,226,6,886.8000000000001,North America,2,2,1,221,1.67,Lost / Hibernating
+CUST-2067,1,10,1395.86,North America,5,4,3,543,4.0,Loyal Customers
+CUST-2068,347,9,1939.63,North America,2,4,4,244,3.33,At Risk
+CUST-2069,33,10,2062.1,North America,3,5,4,354,4.0,Loyal Customers
+CUST-2070,134,8,874.73,North America,3,3,1,331,2.33,Loyal Customers
+CUST-2071,597,5,1224.78,North America,1,1,2,112,1.33,Lost / Hibernating
+CUST-2072,583,7,3239.14,North America,1,3,5,135,3.0,At Risk
+CUST-2073,710,7,1681.17,North America,1,3,3,133,2.33,At Risk
+CUST-2074,407,14,2232.8,Latin America,1,5,4,154,3.33,At Risk
+CUST-2075,1,10,2088.04,Europe,5,5,4,554,4.67,Champions
+CUST-2076,1,10,1738.3,North America,5,5,3,553,4.33,Loyal Customers
+CUST-2077,420,8,1121.4,Europe,1,3,2,132,2.0,At Risk
+CUST-2078,1,8,1590.84,North America,5,3,3,533,3.67,Loyal Customers
+CUST-2079,410,4,391.52,Latin America,1,1,1,111,1.0,Lost / Hibernating
+CUST-2080,1,13,2508.5,Asia-Pacific,5,5,4,554,4.67,Champions
+CUST-2081,1,6,2888.46,North America,5,2,5,525,4.0,Potential Loyalists
+CUST-2082,1,10,1980.9,Europe,5,5,4,554,4.67,Champions
+CUST-2083,1,4,1519.63,Asia-Pacific,5,1,3,513,3.0,Potential Loyalists
+CUST-2084,1,10,1941.1399999999999,Latin America,5,5,4,554,4.67,Champions
+CUST-2085,1,11,2565.6,Europe,5,5,5,555,5.0,Champions
+CUST-2086,276,9,3214.7999999999997,Europe,2,4,5,245,3.67,At Risk
+CUST-2087,1,4,674.73,North America,5,1,1,511,2.33,New Customers
+CUST-2088,575,10,2141.23,Latin America,1,5,4,154,3.33,At Risk
+CUST-2089,1,8,819.81,North America,5,3,1,531,3.0,Loyal Customers
+CUST-2090,1,8,1977.15,Latin America,5,3,4,534,4.0,Loyal Customers
+CUST-2091,1,8,1539.5,Europe,5,3,3,533,3.67,Loyal Customers
+CUST-2092,1,8,1322.01,Europe,5,3,2,532,3.33,Loyal Customers
+CUST-2093,278,9,849.69,Europe,2,4,1,241,2.33,At Risk
+CUST-2094,369,4,427.43,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-2095,1,7,877.86,North America,5,3,1,531,3.0,Loyal Customers
+CUST-2096,1,15,2024.13,North America,5,5,4,554,4.67,Champions
+CUST-2097,1,6,881.1,North America,5,2,1,521,2.67,Lost / Hibernating
+CUST-2098,119,9,2251.53,Asia-Pacific,3,4,4,344,3.67,Loyal Customers
+CUST-2099,519,6,2459.32,North America,1,2,4,124,2.33,Cant Lose Them
+CUST-2100,76,8,622.13,North America,3,3,1,331,2.33,Loyal Customers
+CUST-2101,498,6,733.3199999999999,Latin America,1,2,1,121,1.33,Lost / Hibernating
+CUST-2102,1,7,2023.54,Asia-Pacific,5,3,4,534,4.0,Loyal Customers
+CUST-2103,436,7,1210.93,Latin America,1,3,2,132,2.0,At Risk
+CUST-2104,1,10,1438.1100000000001,Latin America,5,5,3,553,4.33,Loyal Customers
+CUST-2105,308,17,4961.7699999999995,North America,2,5,5,255,4.0,At Risk
+CUST-2106,513,7,1158.3000000000002,North America,1,3,2,132,2.0,At Risk
+CUST-2107,1,10,2373.4500000000003,Asia-Pacific,5,5,4,554,4.67,Champions
+CUST-2108,192,3,127.59,Europe,2,1,1,211,1.33,Lost / Hibernating
+CUST-2109,149,7,1366.95,North America,2,3,2,232,2.33,At Risk
+CUST-2110,133,9,1597.98,Asia-Pacific,3,4,3,343,3.33,Loyal Customers
+CUST-2111,95,7,916.35,North America,3,3,1,331,2.33,Loyal Customers
+CUST-2112,1,11,3895.84,North America,5,5,5,555,5.0,Champions
+CUST-2113,524,8,1182.03,Europe,1,3,2,132,2.0,At Risk
+CUST-2114,68,8,2585.71,Europe,3,3,5,335,3.67,Loyal Customers
+CUST-2115,394,10,4228.79,Europe,1,5,5,155,3.67,At Risk
+CUST-2116,374,11,2229.7799999999997,North America,1,5,4,154,3.33,At Risk
+CUST-2117,351,9,2013.3,Asia-Pacific,2,4,4,244,3.33,At Risk
+CUST-2118,1,12,2723.62,North America,5,5,5,555,5.0,Champions
+CUST-2119,1,8,855.21,North America,5,3,1,531,3.0,Loyal Customers
+CUST-2120,513,4,425.95,Asia-Pacific,1,1,1,111,1.0,Lost / Hibernating
+CUST-2121,656,5,436.58,Latin America,1,1,1,111,1.0,Lost / Hibernating
+CUST-2122,89,9,2813.94,Asia-Pacific,3,4,5,345,4.0,Loyal Customers
+CUST-2123,13,8,2505.1,Asia-Pacific,3,3,4,334,3.33,Loyal Customers
+CUST-2124,1,8,916.9,Europe,5,3,1,531,3.0,Loyal Customers
+CUST-2125,82,8,2422.17,Europe,3,3,4,334,3.33,Loyal Customers
+CUST-2126,191,7,762.97,North America,2,3,1,231,2.0,At Risk
+CUST-2127,1,8,992.58,Europe,5,3,2,532,3.33,Loyal Customers
+CUST-2128,30,6,1495.16,North America,3,2,3,323,2.67,Potential Loyalists
+CUST-2129,1,8,1744.89,North America,5,3,3,533,3.67,Loyal Customers
+CUST-2130,195,8,1706.07,Asia-Pacific,2,3,3,233,2.67,At Risk
+CUST-2131,264,9,2457.8,Europe,2,4,4,244,3.33,At Risk
+CUST-2132,276,5,1666.27,North America,2,1,3,213,2.0,Cant Lose Them
+CUST-2133,1,8,2130.48,North America,5,3,4,534,4.0,Loyal Customers
+CUST-2134,172,4,590.48,Europe,2,1,1,211,1.33,Lost / Hibernating
+CUST-2135,1,10,1732.67,North America,5,5,3,553,4.33,Loyal Customers
+CUST-2136,1,8,1080.23,Asia-Pacific,5,3,2,532,3.33,Loyal Customers
+CUST-2137,1,8,842.03,Europe,5,3,1,531,3.0,Loyal Customers
+CUST-2138,666,8,1987.95,Europe,1,3,4,134,2.67,At Risk
+CUST-2139,1,8,2241.36,Europe,5,3,4,534,4.0,Loyal Customers
+CUST-2140,1,6,1243.97,Asia-Pacific,5,2,2,522,3.0,Lost / Hibernating
+CUST-2141,68,15,4820.71,North America,3,5,5,355,4.33,Loyal Customers
+CUST-2142,141,6,836.4499999999999,Europe,2,2,1,221,1.67,Lost / Hibernating
+CUST-2143,1,8,1170.04,Europe,5,3,2,532,3.33,Loyal Customers
+CUST-2144,1,6,1380.36,North America,5,2,2,522,3.0,Lost / Hibernating
+CUST-2145,1,8,1989.5700000000002,Asia-Pacific,5,3,4,534,4.0,Loyal Customers
+CUST-2146,1,6,859.2,Asia-Pacific,5,2,1,521,2.67,Lost / Hibernating
+CUST-2147,110,5,2089.63,Europe,3,1,4,314,2.67,Potential Loyalists
+CUST-2148,1,12,3757.35,Asia-Pacific,5,5,5,555,5.0,Champions
+CUST-2149,486,1,38.98,Asia-Pacific,1,1,1,111,1.0,Lost / Hibernating
+CUST-2150,1,6,1371.68,Asia-Pacific,5,2,2,522,3.0,Lost / Hibernating
+CUST-2151,138,9,994.28,Asia-Pacific,3,4,2,342,3.0,Loyal Customers
+CUST-2152,1,9,1464.3500000000001,Europe,5,4,3,543,4.0,Loyal Customers
+CUST-2153,1,7,1792.87,Europe,5,3,3,533,3.67,Loyal Customers
+CUST-2154,1,3,1374.08,Europe,5,1,2,512,2.67,New Customers
+CUST-2155,1,4,1379.41,Asia-Pacific,5,1,2,512,2.67,New Customers
+CUST-2156,1,10,2206.05,North America,5,5,4,554,4.67,Champions
+CUST-2157,1,10,2423.13,Asia-Pacific,5,5,4,554,4.67,Champions
+CUST-2158,1,5,1238.33,Asia-Pacific,5,1,2,512,2.67,New Customers
+CUST-2159,188,2,216.54000000000002,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-2160,472,10,2410.44,Asia-Pacific,1,5,4,154,3.33,At Risk
+CUST-2161,571,7,657.28,North America,1,3,1,131,1.67,At Risk
+CUST-2162,264,4,931.4300000000001,North America,2,1,1,211,1.33,Lost / Hibernating
+CUST-2163,700,11,1949.84,Asia-Pacific,1,5,4,154,3.33,At Risk
+CUST-2164,32,3,785.5699999999999,North America,3,1,1,311,1.67,Lost / Hibernating
+CUST-2165,1,6,1295.05,Asia-Pacific,5,2,2,522,3.0,Lost / Hibernating
+CUST-2166,1,5,543.87,Asia-Pacific,5,1,1,511,2.33,New Customers
+CUST-2167,1,10,2635.41,Europe,5,5,5,555,5.0,Champions
+CUST-2168,524,4,421.86,North America,1,1,1,111,1.0,Lost / Hibernating
+CUST-2169,1,9,1683.97,North America,5,4,3,543,4.0,Loyal Customers
+CUST-2170,90,3,1670.48,Europe,3,1,3,313,2.33,Potential Loyalists
+CUST-2171,1,7,1653.26,Latin America,5,3,3,533,3.67,Loyal Customers
+CUST-2172,1,5,1365.83,Europe,5,1,2,512,2.67,New Customers
+CUST-2173,103,7,1973.4,North America,3,3,4,334,3.33,Loyal Customers
+CUST-2174,415,7,1282.13,Europe,1,3,2,132,2.0,At Risk
+CUST-2175,1,5,541.0799999999999,Europe,5,1,1,511,2.33,New Customers
+CUST-2176,5,7,2178.69,Asia-Pacific,3,3,4,334,3.33,Loyal Customers
+CUST-2177,1,9,1408.97,North America,5,4,3,543,4.0,Loyal Customers
+CUST-2178,43,8,1574.75,Asia-Pacific,3,3,3,333,3.0,Loyal Customers
+CUST-2179,1,15,4727.5,Europe,5,5,5,555,5.0,Champions
+CUST-2180,469,4,1010.48,Latin America,1,1,2,112,1.33,Lost / Hibernating
+CUST-2181,174,10,2307.2200000000003,North America,2,5,4,254,3.67,At Risk
+CUST-2182,1,6,1002.75,Europe,5,2,2,522,3.0,Lost / Hibernating
+CUST-2183,361,9,1694.39,Latin America,2,4,3,243,3.0,At Risk
+CUST-2184,1,5,1515.33,North America,5,1,3,513,3.0,Potential Loyalists
+CUST-2185,1,7,922.02,Latin America,5,3,1,531,3.0,Loyal Customers
+CUST-2186,1,12,3935.88,Europe,5,5,5,555,5.0,Champions
+CUST-2187,299,8,3221.67,North America,2,3,5,235,3.33,At Risk
+CUST-2188,1,8,702.68,North America,5,3,1,531,3.0,Loyal Customers
+CUST-2189,407,7,1413.43,Asia-Pacific,1,3,3,133,2.33,At Risk
+CUST-2190,331,14,2367.44,North America,2,5,4,254,3.67,At Risk
+CUST-2191,63,4,997.15,Europe,3,1,2,312,2.0,Lost / Hibernating
+CUST-2192,127,6,3526.0200000000004,North America,3,2,5,325,3.33,Potential Loyalists
+CUST-2193,1,10,2662.0299999999997,Europe,5,5,5,555,5.0,Champions
+CUST-2194,1,4,1058.02,North America,5,1,2,512,2.67,New Customers
+CUST-2195,470,11,1529.57,Asia-Pacific,1,5,3,153,3.0,At Risk
+CUST-2196,186,4,2070.3,Latin America,2,1,4,214,2.33,Cant Lose Them
+CUST-2197,1,6,2218.18,Latin America,5,2,4,524,3.67,Potential Loyalists
+CUST-2198,64,8,1444.95,Asia-Pacific,3,3,3,333,3.0,Loyal Customers
+CUST-2199,1,9,2722.9500000000003,North America,5,4,5,545,4.67,Champions

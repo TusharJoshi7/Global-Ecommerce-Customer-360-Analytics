@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Global E-Commerce Executive Analytics Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="dashboard-header">
+    <div class="title-area">
+      <h1>Global E-Commerce 360° Executive Dashboard</h1>
+      <p>Real-time Sales Trajectory, RFM Customer Personas & Lifetime Value Analytics</p>
+    </div>
+    <div class="badge">Live Analytics Studio</div>
+  </header>
+
+  <!-- Executive KPIs -->
+  <section class="kpi-grid">
+    <div class="kpi-card">
+      <div class="kpi-title">Total Gross Revenue</div>
+      <div class="kpi-value" id="kpi-revenue">$0</div>
+      <div class="kpi-sub">▲ 14.2% YoY Growth</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-title">Completed Orders</div>
+      <div class="kpi-value" id="kpi-orders">0</div>
+      <div class="kpi-sub">96.0% Fulfillment Rate</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-title">Active Customers</div>
+      <div class="kpi-value" id="kpi-customers">0</div>
+      <div class="kpi-sub">Across 4 Global Regions</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-title">Average Order Value (AOV)</div>
+      <div class="kpi-value" id="kpi-aov">$0</div>
+      <div class="kpi-sub">Healthy Cart Size</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-title">Avg Customer LTV</div>
+      <div class="kpi-value" id="kpi-clv">$0</div>
+      <div class="kpi-sub">Monetary RFM Baseline</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-title">Customer Churn Risk</div>
+      <div class="kpi-value" id="kpi-churn">0%</div>
+      <div class="kpi-sub" style="color: var(--accent-rose);">Requires Action</div>
+    </div>
+  </section>
+
+  <!-- Charts Layout Grid -->
+  <main class="charts-grid">
+    <!-- Revenue Trend Chart -->
+    <div class="chart-card col-8">
+      <div class="chart-title">
+        <span>Monthly Sales Trajectory & Revenue (2024 - 2026)</span>
+      </div>
+      <div class="chart-container">
+        <canvas id="chart-trend"></canvas>
+      </div>
+    </div>
+
+    <!-- RFM Customer Segments -->
+    <div class="chart-card col-4">
+      <div class="chart-title">
+        <span>RFM Persona Breakdown</span>
+      </div>
+      <div class="chart-container">
+        <canvas id="chart-segments"></canvas>
+      </div>
+    </div>
+
+    <!-- Regional Breakdown -->
+    <div class="chart-card col-6">
+      <div class="chart-title">
+        <span>Revenue by Geographic Region</span>
+      </div>
+      <div class="chart-container">
+        <canvas id="chart-regions"></canvas>
+      </div>
+    </div>
+
+    <!-- Category Revenue -->
+    <div class="chart-card col-6">
+      <div class="chart-title">
+        <span>Product Category Performance</span>
+      </div>
+      <div class="chart-container">
+        <canvas id="chart-categories"></canvas>
+      </div>
+    </div>
+
+    <!-- Top High-Value Customers Table -->
+    <div class="chart-card col-12">
+      <div class="chart-title">
+        <span>High-Value VIP Customers (Top Monetary LTV)</span>
+      </div>
+      <div class="table-container">
+        <table>
+          <thead>
+            <tr>
+              <th>Customer ID</th>
+              <th>Region</th>
+              <th>Order Frequency</th>
+              <th>Monetary Value (LTV)</th>
+              <th>RFM Segment Persona</th>
+            </tr>
+          </thead>
+          <tbody id="table-body">
+            <!-- Rendered dynamically -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>Data Analytics Portfolio Project created by <strong>Tushar Joshi</strong> | Powered by Python, Pandas, SQL & Chart.js</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

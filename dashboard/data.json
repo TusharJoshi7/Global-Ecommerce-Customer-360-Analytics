@@ -1,0 +1,304 @@
+{
+  "kpis": {
+    "total_revenue": 2153813.04,
+    "total_orders": 9603,
+    "total_customers": 1200,
+    "aov": 224.29,
+    "avg_clv": 1794.84,
+    "churn_rate_pct": 43.0
+  },
+  "monthly_trends": [
+    {
+      "year_month": "2024-01",
+      "revenue": 7573.57,
+      "orders": 27,
+      "avg_order": 280.5
+    },
+    {
+      "year_month": "2024-02",
+      "revenue": 13449.67,
+      "orders": 63,
+      "avg_order": 213.49
+    },
+    {
+      "year_month": "2024-03",
+      "revenue": 14470.11,
+      "orders": 76,
+      "avg_order": 190.4
+    },
+    {
+      "year_month": "2024-04",
+      "revenue": 26248.92,
+      "orders": 116,
+      "avg_order": 226.28
+    },
+    {
+      "year_month": "2024-05",
+      "revenue": 37705.23,
+      "orders": 157,
+      "avg_order": 240.16
+    },
+    {
+      "year_month": "2024-06",
+      "revenue": 39420.05,
+      "orders": 184,
+      "avg_order": 214.24
+    },
+    {
+      "year_month": "2024-07",
+      "revenue": 46640.97,
+      "orders": 213,
+      "avg_order": 218.97
+    },
+    {
+      "year_month": "2024-08",
+      "revenue": 50699.88,
+      "orders": 213,
+      "avg_order": 238.03
+    },
+    {
+      "year_month": "2024-09",
+      "revenue": 48954.72,
+      "orders": 214,
+      "avg_order": 228.76
+    },
+    {
+      "year_month": "2024-10",
+      "revenue": 56266.75,
+      "orders": 234,
+      "avg_order": 240.46
+    },
+    {
+      "year_month": "2024-11",
+      "revenue": 50803.56,
+      "orders": 253,
+      "avg_order": 200.8
+    },
+    {
+      "year_month": "2024-12",
+      "revenue": 48417.39,
+      "orders": 258,
+      "avg_order": 187.66
+    },
+    {
+      "year_month": "2025-01",
+      "revenue": 59346.34,
+      "orders": 262,
+      "avg_order": 226.51
+    },
+    {
+      "year_month": "2025-02",
+      "revenue": 59130.34,
+      "orders": 266,
+      "avg_order": 222.29
+    },
+    {
+      "year_month": "2025-03",
+      "revenue": 58659.38,
+      "orders": 264,
+      "avg_order": 222.19
+    },
+    {
+      "year_month": "2025-04",
+      "revenue": 58429.3,
+      "orders": 278,
+      "avg_order": 210.18
+    },
+    {
+      "year_month": "2025-05",
+      "revenue": 61153.0,
+      "orders": 252,
+      "avg_order": 242.67
+    },
+    {
+      "year_month": "2025-06",
+      "revenue": 61150.23,
+      "orders": 289,
+      "avg_order": 211.59
+    },
+    {
+      "year_month": "2025-07",
+      "revenue": 70528.08,
+      "orders": 290,
+      "avg_order": 243.2
+    },
+    {
+      "year_month": "2025-08",
+      "revenue": 71418.53,
+      "orders": 308,
+      "avg_order": 231.88
+    },
+    {
+      "year_month": "2025-09",
+      "revenue": 63035.77,
+      "orders": 280,
+      "avg_order": 225.13
+    },
+    {
+      "year_month": "2025-10",
+      "revenue": 72693.4,
+      "orders": 301,
+      "avg_order": 241.51
+    },
+    {
+      "year_month": "2025-11",
+      "revenue": 60179.06,
+      "orders": 305,
+      "avg_order": 197.31
+    },
+    {
+      "year_month": "2025-12",
+      "revenue": 61798.07,
+      "orders": 344,
+      "avg_order": 179.65
+    },
+    {
+      "year_month": "2026-01",
+      "revenue": 67709.51,
+      "orders": 297,
+      "avg_order": 227.98
+    },
+    {
+      "year_month": "2026-02",
+      "revenue": 72222.95,
+      "orders": 268,
+      "avg_order": 269.49
+    },
+    {
+      "year_month": "2026-03",
+      "revenue": 75880.9,
+      "orders": 310,
+      "avg_order": 244.78
+    },
+    {
+      "year_month": "2026-04",
+      "revenue": 59632.76,
+      "orders": 297,
+      "avg_order": 200.78
+    },
+    {
+      "year_month": "2026-05",
+      "revenue": 70378.54,
+      "orders": 308,
+      "avg_order": 228.5
+    },
+    {
+      "year_month": "2026-06",
+      "revenue": 65810.76,
+      "orders": 273,
+      "avg_order": 241.07
+    },
+    {
+      "year_month": "2026-07",
+      "revenue": 59532.8,
+      "orders": 278,
+      "avg_order": 214.15
+    },
+    {
+      "year_month": "2026-08",
+      "revenue": 73442.2,
+      "orders": 332,
+      "avg_order": 221.21
+    },
+    {
+      "year_month": "2026-09",
+      "revenue": 411030.3,
+      "orders": 1793,
+      "avg_order": 229.24
+    }
+  ],
+  "customer_segments": {
+    "Loyal Customers": 316,
+    "Lost / Hibernating": 270,
+    "At Risk": 246,
+    "Champions": 158,
+    "Cant Lose Them": 77,
+    "New Customers": 70,
+    "Potential Loyalists": 63
+  },
+  "regional_revenue": {
+    "Asia-Pacific": 410774.88,
+    "Europe": 613582.26,
+    "Latin America": 228082.05,
+    "North America": 901373.85
+  },
+  "category_revenue": {
+    "Apparel": 298119.93,
+    "Beauty & Health": 110446.7,
+    "Books": 89093.17,
+    "Electronics": 1062118.78,
+    "Home & Living": 594034.46
+  },
+  "top_customers": [
+    {
+      "customer_id": "CUST-1159",
+      "region": "Asia-Pacific",
+      "frequency": 11,
+      "monetary": 6161.68,
+      "Customer_Segment": "Champions"
+    },
+    {
+      "customer_id": "CUST-1680",
+      "region": "Asia-Pacific",
+      "frequency": 12,
+      "monetary": 5976.29,
+      "Customer_Segment": "Champions"
+    },
+    {
+      "customer_id": "CUST-1621",
+      "region": "North America",
+      "frequency": 6,
+      "monetary": 5961.55,
+      "Customer_Segment": "Cant Lose Them"
+    },
+    {
+      "customer_id": "CUST-2049",
+      "region": "North America",
+      "frequency": 11,
+      "monetary": 5919.55,
+      "Customer_Segment": "Champions"
+    },
+    {
+      "customer_id": "CUST-1195",
+      "region": "North America",
+      "frequency": 10,
+      "monetary": 5741.51,
+      "Customer_Segment": "Loyal Customers"
+    },
+    {
+      "customer_id": "CUST-1084",
+      "region": "North America",
+      "frequency": 13,
+      "monetary": 5570.25,
+      "Customer_Segment": "Loyal Customers"
+    },
+    {
+      "customer_id": "CUST-1726",
+      "region": "North America",
+      "frequency": 14,
+      "monetary": 5562.25,
+      "Customer_Segment": "Loyal Customers"
+    },
+    {
+      "customer_id": "CUST-1475",
+      "region": "Latin America",
+      "frequency": 16,
+      "monetary": 5352.4400000000005,
+      "Customer_Segment": "Champions"
+    },
+    {
+      "customer_id": "CUST-1860",
+      "region": "Asia-Pacific",
+      "frequency": 11,
+      "monetary": 5238.86,
+      "Customer_Segment": "Loyal Customers"
+    },
+    {
+      "customer_id": "CUST-1843",
+      "region": "Latin America",
+      "frequency": 9,
+      "monetary": 5182.31,
+      "Customer_Segment": "Champions"
+    }
+  ]
+}
