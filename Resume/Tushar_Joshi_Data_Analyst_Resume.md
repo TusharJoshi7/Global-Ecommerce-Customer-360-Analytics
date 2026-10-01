@@ -32,22 +32,22 @@ Analytical and detail-oriented Data Analyst & B.Tech IT candidate with hands-on 
 
 ## 🚀 Featured Data Analytics Projects
 
-### 1. **Global E-Commerce & Customer 360 Analytics Platform**
-*Python, SQL, Pandas, Chart.js, HTML/CSS* | [Repository Link](./Global-Ecommerce-Customer-360-Analytics)
+### 1. **Global E-Commerce & Customer 360 Analytics Platform** [(GitHub)](https://github.com/TusharJoshi7/Global-Ecommerce-Customer-360-Analytics)
+*Python, SQL, Pandas, Chart.js, HTML/CSS*
 - Processed **10,000+ customer transactions** ($1.85M+ gross revenue) to quantify Monthly Recurring Revenue (MRR) and Average Order Value (AOV).
 - Engineered an **RFM (Recency, Frequency, Monetary) Customer Segmentation model** categorizing 1,200+ unique customers into 5 personas (*Champions, At Risk, Loyal*).
 - Formulated production SQL queries leveraging CTEs and Window Functions (`LAG`, `LEAD`, `RANK`) and deployed an interactive glassmorphism executive web dashboard.
 
-### 2. **Healthcare Operational Analytics & Patient ER Wait-Time Intelligence**
-*Python, SQL, Seaborn, Chart.js* | [Repository Link](./Project-2-Healthcare-Operations-Analytics)
+### 2. **Healthcare Operational Analytics & Patient ER Wait-Time Intelligence** [(GitHub)](https://github.com/TusharJoshi7/Healthcare-Operations-Patient-Analytics)
+*Python, SQL, Seaborn, Chart.js*
 - Analyzed **5,000+ patient admission records** across 7 clinical departments to aggregate emergency room overcrowding bottlenecks and triage SLA breaches.
 - Quantified **30-day hospital readmission risk factors** across age brackets, revealing high senior (65+) readmission risk (21.8%) to mitigate hospital financial penalties.
 - Built automated Python data wrangling pipelines, advanced SQL analytics queries, and a live hospital operations executive dashboard.
 
-### 3. **Financial Credit Risk & Loan Portfolio Intelligence Platform**
-*Python, SQL, Pandas, Matplotlib, Chart.js* | [Repository Link](./Project-3-Financial-Credit-Risk-Analytics)
+### 3. **Financial Credit Risk & Loan Portfolio Intelligence Platform** [(GitHub)](https://github.com/TusharJoshi7/Financial-Credit-Risk-Analytics)
+*Python, SQL, Pandas, Matplotlib, Chart.js*
 - Evaluated credit default risk and financial exposure across a **6,000+ loan portfolio** ($124.5M+ total origination) to calculate Loss Given Default (LGD).
-- Stratified default probabilities across FICO score tiers (300–850), DTI ratios, and loan rating grades (A to E), identifying Grade E risk concentration (38.2% default rate).
+- Stratified default probabilities across FICO score tiers (300–850), DTI ratios, and loan grades (A to E), identifying Grade E risk concentration (38.2% default rate).
 - Constructed **Monthly Vintage Loss Cohort matrices** in SQL/Python and built an executive credit risk dashboard tracking active principal balances.
 
 ---
