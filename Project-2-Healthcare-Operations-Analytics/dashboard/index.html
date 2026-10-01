@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🏥 Healthcare Operational & Patient Analytics Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="dashboard-container">
+        <!-- Header -->
+        <header class="navbar">
+            <div class="brand">
+                <span class="icon">🏥</span>
+                <div>
+                    <h1>Healthcare Operational Intelligence</h1>
+                    <p class="subtitle">Patient ER Wait-Time, Readmission Risk & Resource Utilization</p>
+                </div>
+            </div>
+            <div class="badge-status">
+                <span class="dot live"></span> Live Production Feed
+            </div>
+        </header>
+
+        <!-- KPI Metrics Grid -->
+        <section class="kpi-grid">
+            <div class="kpi-card">
+                <div class="kpi-header">
+                    <span class="kpi-title">Total Patients Admitted</span>
+                    <span class="kpi-icon">👥</span>
+                </div>
+                <div class="kpi-value" id="totalAdmissions">--</div>
+                <div class="kpi-sub text-green">↑ 4.2% MoM Volume</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-header">
+                    <span class="kpi-title">Avg ER Wait Time</span>
+                    <span class="kpi-icon">⏱️</span>
+                </div>
+                <div class="kpi-value" id="avgWaitTime">--</div>
+                <div class="kpi-sub text-orange">Target: &lt; 45 mins</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-header">
+                    <span class="kpi-title">Avg Length of Stay (LOS)</span>
+                    <span class="kpi-icon">🛏️</span>
+                </div>
+                <div class="kpi-value" id="avgLOS">--</div>
+                <div class="kpi-sub text-blue">Optimal Bed Turnover</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-header">
+                    <span class="kpi-title">30-Day Readmission Rate</span>
+                    <span class="kpi-icon">🔁</span>
+                </div>
+                <div class="kpi-value" id="readmissionRate">--</div>
+                <div class="kpi-sub text-red">High-Risk Benchmark</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-header">
+                    <span class="kpi-title">Total Treatment Revenue</span>
+                    <span class="kpi-icon">💳</span>
+                </div>
+                <div class="kpi-value" id="totalCost">--</div>
+                <div class="kpi-sub text-purple">Insurance & Out-of-pocket</div>
+            </div>
+        </section>
+
+        <!-- Charts Grid -->
+        <section class="charts-grid">
+            <div class="chart-card double-width">
+                <div class="chart-header">
+                    <h3>📈 Patient Admissions & Average Wait Time Trajectory</h3>
+                    <p>Monthly admissions volume vs average ER wait times</p>
+                </div>
+                <div class="chart-wrapper">
+                    <canvas id="monthlyTrendChart"></canvas>
+                </div>
+            </div>
+
+            <div class="chart-card">
+                <div class="chart-header">
+                    <h3>🚨 Emergency Triage Breakdown</h3>
+                    <p>Triage severity levels (1: Resuscitation - 5: Non-Urgent)</p>
+                </div>
+                <div class="chart-wrapper">
+                    <canvas id="triageChart"></canvas>
+                </div>
+            </div>
+
+            <div class="chart-card">
+                <div class="chart-header">
+                    <h3>🏥 Department Wait Time & Cost Ranking</h3>
+                    <p>Average ER wait times across clinical departments</p>
+                </div>
+                <div class="chart-wrapper">
+                    <canvas id="deptChart"></canvas>
+                </div>
+            </div>
+
+            <div class="chart-card double-width">
+                <div class="chart-header">
+                    <h3>👴 30-Day Readmission Rate by Age Group (%)</h3>
+                    <p>Identifying high-risk patient age cohorts</p>
+                </div>
+                <div class="chart-wrapper">
+                    <canvas id="readmitAgeChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- High-Cost Patients Table -->
+        <section class="table-card">
+            <div class="chart-header">
+                <h3>📋 Top High-Complexity / High-Cost Inpatient Directory</h3>
+                <p>Real-time audit of maximum treatment cost cases</p>
+            </div>
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Patient ID</th>
+                            <th>Age</th>
+                            <th>Gender</th>
+                            <th>Department</th>
+                            <th>Triage Level</th>
+                            <th>LOS (Days)</th>
+                            <th>Treatment Cost ($)</th>
+                            <th>30D Readmission</th>
+                        </tr>
+                    </thead>
+                    <tbody id="patientTableBody">
+                        <!-- Dynamic Rows -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,342 @@
+{
+  "summary": {
+    "total_admissions": 5000,
+    "avg_wait_time_min": 49.7,
+    "avg_length_of_stay_days": 3.71,
+    "readmission_rate_pct": 14.1,
+    "total_treatment_cost": 54501038.5
+  },
+  "monthly_trend": [
+    {
+      "year_month": "2024-01",
+      "admissions": 172,
+      "avg_wait": 54.7
+    },
+    {
+      "year_month": "2024-02",
+      "admissions": 168,
+      "avg_wait": 44.9
+    },
+    {
+      "year_month": "2024-03",
+      "admissions": 171,
+      "avg_wait": 54.8
+    },
+    {
+      "year_month": "2024-04",
+      "admissions": 165,
+      "avg_wait": 48.8
+    },
+    {
+      "year_month": "2024-05",
+      "admissions": 150,
+      "avg_wait": 55.8
+    },
+    {
+      "year_month": "2024-06",
+      "admissions": 163,
+      "avg_wait": 50.7
+    },
+    {
+      "year_month": "2024-07",
+      "admissions": 167,
+      "avg_wait": 43.3
+    },
+    {
+      "year_month": "2024-08",
+      "admissions": 146,
+      "avg_wait": 56.9
+    },
+    {
+      "year_month": "2024-09",
+      "admissions": 176,
+      "avg_wait": 55.3
+    },
+    {
+      "year_month": "2024-10",
+      "admissions": 180,
+      "avg_wait": 46.8
+    },
+    {
+      "year_month": "2024-11",
+      "admissions": 181,
+      "avg_wait": 50.2
+    },
+    {
+      "year_month": "2024-12",
+      "admissions": 156,
+      "avg_wait": 54.7
+    },
+    {
+      "year_month": "2025-01",
+      "admissions": 156,
+      "avg_wait": 51.2
+    },
+    {
+      "year_month": "2025-02",
+      "admissions": 166,
+      "avg_wait": 49.7
+    },
+    {
+      "year_month": "2025-03",
+      "admissions": 193,
+      "avg_wait": 41.7
+    },
+    {
+      "year_month": "2025-04",
+      "admissions": 164,
+      "avg_wait": 46.6
+    },
+    {
+      "year_month": "2025-05",
+      "admissions": 164,
+      "avg_wait": 63.3
+    },
+    {
+      "year_month": "2025-06",
+      "admissions": 162,
+      "avg_wait": 40.5
+    },
+    {
+      "year_month": "2025-07",
+      "admissions": 176,
+      "avg_wait": 48.0
+    },
+    {
+      "year_month": "2025-08",
+      "admissions": 170,
+      "avg_wait": 46.9
+    },
+    {
+      "year_month": "2025-09",
+      "admissions": 135,
+      "avg_wait": 44.2
+    },
+    {
+      "year_month": "2025-10",
+      "admissions": 188,
+      "avg_wait": 46.0
+    },
+    {
+      "year_month": "2025-11",
+      "admissions": 163,
+      "avg_wait": 51.4
+    },
+    {
+      "year_month": "2025-12",
+      "admissions": 204,
+      "avg_wait": 54.6
+    },
+    {
+      "year_month": "2026-01",
+      "admissions": 154,
+      "avg_wait": 45.2
+    },
+    {
+      "year_month": "2026-02",
+      "admissions": 150,
+      "avg_wait": 48.4
+    },
+    {
+      "year_month": "2026-03",
+      "admissions": 167,
+      "avg_wait": 43.9
+    },
+    {
+      "year_month": "2026-04",
+      "admissions": 141,
+      "avg_wait": 47.5
+    },
+    {
+      "year_month": "2026-05",
+      "admissions": 178,
+      "avg_wait": 48.3
+    },
+    {
+      "year_month": "2026-06",
+      "admissions": 174,
+      "avg_wait": 57.3
+    }
+  ],
+  "department_kpis": [
+    {
+      "department": "Emergency",
+      "total_admissions": 1734,
+      "avg_wait_time_min": 49.1,
+      "avg_length_of_stay_days": 3.58,
+      "readmission_rate_pct": 12.51,
+      "avg_treatment_cost": 9572.4,
+      "total_revenue": 16598547.5
+    },
+    {
+      "department": "Orthopedics",
+      "total_admissions": 774,
+      "avg_wait_time_min": 49.2,
+      "avg_length_of_stay_days": 3.84,
+      "readmission_rate_pct": 11.89,
+      "avg_treatment_cost": 12195.99,
+      "total_revenue": 9439693.5
+    },
+    {
+      "department": "Cardiology",
+      "total_admissions": 736,
+      "avg_wait_time_min": 49.2,
+      "avg_length_of_stay_days": 3.89,
+      "readmission_rate_pct": 19.16,
+      "avg_treatment_cost": 13770.74,
+      "total_revenue": 10135266.0
+    },
+    {
+      "department": "General Medicine",
+      "total_admissions": 732,
+      "avg_wait_time_min": 51.9,
+      "avg_length_of_stay_days": 3.71,
+      "readmission_rate_pct": 11.07,
+      "avg_treatment_cost": 8408.63,
+      "total_revenue": 6155114.0
+    },
+    {
+      "department": "Neurology",
+      "total_admissions": 491,
+      "avg_wait_time_min": 49.8,
+      "avg_length_of_stay_days": 3.75,
+      "readmission_rate_pct": 22.0,
+      "avg_treatment_cost": 12308.13,
+      "total_revenue": 6043293.5
+    },
+    {
+      "department": "Pediatrics",
+      "total_admissions": 271,
+      "avg_wait_time_min": 49.5,
+      "avg_length_of_stay_days": 3.47,
+      "readmission_rate_pct": 13.28,
+      "avg_treatment_cost": 8190.79,
+      "total_revenue": 2219703.0
+    },
+    {
+      "department": "Oncology",
+      "total_admissions": 262,
+      "avg_wait_time_min": 50.6,
+      "avg_length_of_stay_days": 3.9,
+      "readmission_rate_pct": 11.45,
+      "avg_treatment_cost": 14921.45,
+      "total_revenue": 3909421.0
+    }
+  ],
+  "triage_distribution": {
+    "Level 1: Resuscitation": 380,
+    "Level 2: Emergent": 1074,
+    "Level 3: Urgent": 2092,
+    "Level 4: Less Urgent": 976,
+    "Level 5: Non-Urgent": 478
+  },
+  "readmission_by_age": {
+    "Pediatric (0-17)": 12.74,
+    "Young Adult (18-34)": 12.29,
+    "Adult (35-49)": 14.3,
+    "Middle Aged (50-64)": 11.91,
+    "Senior (65+)": 17.35
+  },
+  "top_cost_admissions": [
+    {
+      "patient_id": "PAT-2233",
+      "age": 53,
+      "gender": "Male",
+      "department": "Cardiology",
+      "triage_level": 1,
+      "length_of_stay_days": 25.3,
+      "treatment_cost": 78193.0,
+      "readmission_30d": 0
+    },
+    {
+      "patient_id": "PAT-1868",
+      "age": 34,
+      "gender": "Male",
+      "department": "Cardiology",
+      "triage_level": 2,
+      "length_of_stay_days": 25.4,
+      "treatment_cost": 71165.0,
+      "readmission_30d": 1
+    },
+    {
+      "patient_id": "PAT-1633",
+      "age": 8,
+      "gender": "Female",
+      "department": "Neurology",
+      "triage_level": 1,
+      "length_of_stay_days": 26.3,
+      "treatment_cost": 70909.5,
+      "readmission_30d": 1
+    },
+    {
+      "patient_id": "PAT-1393",
+      "age": 18,
+      "gender": "Female",
+      "department": "Orthopedics",
+      "triage_level": 1,
+      "length_of_stay_days": 26.2,
+      "treatment_cost": 67317.0,
+      "readmission_30d": 0
+    },
+    {
+      "patient_id": "PAT-1857",
+      "age": 45,
+      "gender": "Female",
+      "department": "Emergency",
+      "triage_level": 1,
+      "length_of_stay_days": 30.6,
+      "treatment_cost": 63684.5,
+      "readmission_30d": 0
+    },
+    {
+      "patient_id": "PAT-1325",
+      "age": 54,
+      "gender": "Male",
+      "department": "Cardiology",
+      "triage_level": 2,
+      "length_of_stay_days": 22.2,
+      "treatment_cost": 62875.5,
+      "readmission_30d": 1
+    },
+    {
+      "patient_id": "PAT-1436",
+      "age": 67,
+      "gender": "Female",
+      "department": "Cardiology",
+      "triage_level": 2,
+      "length_of_stay_days": 19.5,
+      "treatment_cost": 62813.5,
+      "readmission_30d": 0
+    },
+    {
+      "patient_id": "PAT-2331",
+      "age": 21,
+      "gender": "Male",
+      "department": "Cardiology",
+      "triage_level": 3,
+      "length_of_stay_days": 21.0,
+      "treatment_cost": 61940.0,
+      "readmission_30d": 0
+    },
+    {
+      "patient_id": "PAT-1245",
+      "age": 18,
+      "gender": "Male",
+      "department": "Oncology",
+      "triage_level": 1,
+      "length_of_stay_days": 18.4,
+      "treatment_cost": 60404.5,
+      "readmission_30d": 1
+    },
+    {
+      "patient_id": "PAT-1086",
+      "age": 50,
+      "gender": "Male",
+      "department": "Cardiology",
+      "triage_level": 1,
+      "length_of_stay_days": 20.1,
+      "treatment_cost": 59076.0,
+      "readmission_30d": 1
+    }
+  ]
+}

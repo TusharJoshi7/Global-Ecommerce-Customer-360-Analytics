@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tushar Joshi - Data Analyst Resume</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #0f172a;
+            --accent-color: #2563eb;
+            --text-main: #334155;
+            --text-dark: #0f172a;
+            --text-light: #64748b;
+            --border-color: #e2e8f0;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        }
+
+        body {
+            background-color: #f8fafc;
+            color: var(--text-main);
+            line-height: 1.5;
+            padding: 40px 20px;
+        }
+
+        .resume-page {
+            max-width: 850px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 40px 50px;
+            border-radius: 8px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+            border: 1px solid var(--border-color);
+        }
+
+        /* Header */
+        header {
+            text-align: center;
+            padding-bottom: 18px;
+            border-bottom: 2px solid var(--primary-color);
+            margin-bottom: 20px;
+        }
+
+        header h1 {
+            font-size: 28px;
+            font-weight: 700;
+            color: var(--text-dark);
+            letter-spacing: -0.5px;
+            margin-bottom: 4px;
+        }
+
+        header .target-role {
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--accent-color);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+
+        header .contact-info {
+            font-size: 13px;
+            color: var(--text-light);
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        header .contact-info a {
+            color: var(--text-dark);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        header .contact-info a:hover {
+            color: var(--accent-color);
+        }
+
+        /* Section Styling */
+        section {
+            margin-bottom: 20px;
+        }
+
+        h2.section-title {
+            font-size: 14px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            color: var(--primary-color);
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 4px;
+            margin-bottom: 12px;
+        }
+
+        /* Summary */
+        .summary-text {
+            font-size: 13px;
+            color: var(--text-main);
+            text-align: justify;
+        }
+
+        /* Skills Grid */
+        .skills-grid {
+            display: grid;
+            grid-template-columns: auto 1fr;
+            gap: 8px 16px;
+            font-size: 13px;
+        }
+
+        .skill-category {
+            font-weight: 600;
+            color: var(--text-dark);
+        }
+
+        .skill-list {
+            color: var(--text-main);
+        }
+
+        /* Experience & Projects Items */
+        .item {
+            margin-bottom: 14px;
+        }
+
+        .item:last-child {
+            margin-bottom: 0;
+        }
+
+        .item-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 2px;
+        }
+
+        .item-title {
+            font-size: 14px;
+            font-weight: 700;
+            color: var(--text-dark);
+        }
+
+        .item-subtitle {
+            font-size: 13px;
+            font-weight: 600;
+            color: var(--accent-color);
+        }
+
+        .item-date {
+            font-size: 12px;
+            font-weight: 500;
+            color: var(--text-light);
+        }
+
+        ul.bullets {
+            padding-left: 18px;
+            margin-top: 4px;
+        }
+
+        ul.bullets li {
+            font-size: 12.5px;
+            color: var(--text-main);
+            margin-bottom: 4px;
+        }
+
+        ul.bullets li strong {
+            color: var(--text-dark);
+        }
+
+        /* Print Media Styles for PDF export */
+        @media print {
+            body {
+                background: none;
+                padding: 0;
+            }
+            .resume-page {
+                box-shadow: none;
+                border: none;
+                padding: 0;
+                max-width: 100%;
+            }
+            @page {
+                margin: 15mm 15mm 15mm 15mm;
+                size: A4;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="resume-page">
+    <!-- Header -->
+    <header>
+        <h1>TUSHAR JOSHI</h1>
+        <div class="target-role">Data Analyst | Business Intelligence & Analytics Engineer</div>
+        <div class="contact-info">
+            <span>📞 +91-9310806797</span> •
+            <span>✉️ <a href="mailto:joshitushar265@gmail.com">joshitushar265@gmail.com</a></span> •
+            <span>🔗 <a href="https://linkedin.com/in/tushar-joshi-02abab230" target="_blank">LinkedIn</a></span> •
+            <span>💻 <a href="https://github.com/TusharJoshi7" target="_blank">GitHub</a></span> •
+            <span>📍 Delhi, India</span>
+        </div>
+    </header>
+
+    <!-- Professional Summary -->
+    <section>
+        <h2 class="section-title">Professional Summary</h2>
+        <p class="summary-text">
+            Analytical and detail-oriented Data Analyst & B.Tech IT candidate with hands-on expertise in Python (Pandas, NumPy), SQL (PostgreSQL, CTEs, Window Functions), Exploratory Data Analysis (EDA), and BI Dashboards (Power BI, Tableau, Chart.js). Proven track record of building production-grade analytical data pipelines, RFM customer persona segmentation models, financial risk forecasting, and clinical operational analytics. Skilled in converting complex multi-dimensional raw datasets into actionable executive insights.
+        </p>
+    </section>
+
+    <!-- Technical Skills -->
+    <section>
+        <h2 class="section-title">Technical Skills</h2>
+        <div class="skills-grid">
+            <div class="skill-category">Programming & Analytics:</div>
+            <div class="skill-list">Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn), SQL (PostgreSQL, MySQL), R (Basic)</div>
+
+            <div class="skill-category">Data Modeling & Analytics:</div>
+            <div class="skill-list">Exploratory Data Analysis (EDA), Data Cleaning, RFM Customer Segmentation, Cohort Retention Heatmaps, Feature Engineering, Descriptive Statistics</div>
+
+            <div class="skill-category">BI & Visualization:</div>
+            <div class="skill-list">Power BI, Tableau, Chart.js, HTML5/CSS3/JS Web Dashboards, MS Excel (Advanced Pivot Tables, VLOOKUP, XLOOKUP)</div>
+
+            <div class="skill-category">Databases & Developer Tools:</div>
+            <div class="skill-list">PostgreSQL, MySQL, MongoDB, Git, GitHub, Jupyter Notebook, VS Code</div>
+
+            <div class="skill-category">Core Competencies:</div>
+            <div class="skill-list">Business Intelligence, KPI Reporting, Data Storytelling, Problem Solving, Cross-functional Communication</div>
+        </div>
+    </section>
+
+    <!-- Experience -->
+    <section>
+        <h2 class="section-title">Professional Experience</h2>
+        <div class="item">
+            <div class="item-header">
+                <div>
+                    <span class="item-title">Product Engineer Intern</span> — <span class="item-subtitle">Qyupe Software Pvt. Ltd. (Subsidiary of EazyStar)</span>
+                </div>
+                <div class="item-date">April 2024 – Present | Remote</div>
+            </div>
+            <ul class="bullets">
+                <li>Engineered configurable data dashboard components and dynamic analytics views using Vue.js and TypeScript, increasing reporting response time efficiency by <strong>35%</strong>.</li>
+                <li>Formulated custom SQL scripts and data validation pipelines to analyze raw form workflow submissions and maintain high data quality across user metrics.</li>
+                <li>Collaborated with cross-functional development and QA teams using Git, GitHub, Jira, and Confluence to document data schemas and validate data flows.</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Projects -->
+    <section>
+        <h2 class="section-title">Featured Data Analytics Projects</h2>
+
+        <div class="item">
+            <div class="item-header">
+                <div>
+                    <span class="item-title">Global E-Commerce & Customer 360 Analytics Platform</span>
+                    <span class="item-subtitle">| Python, SQL, Pandas, Chart.js, HTML/CSS</span>
+                </div>
+                <div class="item-date">2026</div>
+            </div>
+            <ul class="bullets">
+                <li>Processed <strong>10,000+ customer transactions</strong> ($1.85M+ gross revenue) to quantify Monthly Recurring Revenue (MRR) and Average Order Value (AOV).</li>
+                <li>Engineered an <strong>RFM (Recency, Frequency, Monetary) Segmentation model</strong> categorizing 1,200+ unique customers into 5 personas (*Champions, At Risk, Loyal*).</li>
+                <li>Formulated production SQL queries leveraging CTEs and Window Functions (`LAG`, `LEAD`, `RANK`) and deployed an interactive glassmorphism executive web dashboard.</li>
+            </ul>
+        </div>
+
+        <div class="item">
+            <div class="item-header">
+                <div>
+                    <span class="item-title">Healthcare Operational Analytics & Patient ER Wait-Time Intelligence</span>
+                    <span class="item-subtitle">| Python, SQL, Seaborn, Chart.js</span>
+                </div>
+                <div class="item-date">2026</div>
+            </div>
+            <ul class="bullets">
+                <li>Analyzed <strong>5,000+ patient admission records</strong> across 7 clinical departments to pinpoint ER overcrowding bottlenecks and triage level SLA breaches.</li>
+                <li>Quantified **30-day hospital readmission risk factors** across age brackets, revealing high senior (65+) readmission risk (21.8%) to mitigate hospital financial penalties.</li>
+                <li>Built automated Python data wrangling pipelines, advanced SQL analytics queries, and a live hospital operations executive dashboard.</li>
+            </ul>
+        </div>
+
+        <div class="item">
+            <div class="item-header">
+                <div>
+                    <span class="item-title">Financial Credit Risk & Loan Portfolio Intelligence Platform</span>
+                    <span class="item-subtitle">| Python, SQL, Pandas, Matplotlib, Chart.js</span>
+                </div>
+                <div class="item-date">2026</div>
+            </div>
+            <ul class="bullets">
+                <li>Evaluated credit default risk and financial exposure across a <strong>6,000+ loan portfolio</strong> ($124.5M+ total origination) to calculate Loss Given Default (LGD).</li>
+                <li>Stratified default probabilities across FICO score tiers (300–850), DTI ratios, and loan grades (A to E), identifying Grade E risk concentration (38.2% default rate).</li>
+                <li>Constructed **Monthly Vintage Loss Cohort matrices** in SQL/Python and built an executive credit risk dashboard tracking active principal balances.</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Education -->
+    <section>
+        <h2 class="section-title">Education</h2>
+        <div class="item">
+            <div class="item-header">
+                <div>
+                    <span class="item-title">Maharaja Agrasen Institute of Technology (MAIT)</span> — <span class="item-subtitle">New Delhi</span>
+                </div>
+                <div class="item-date">Sep 2022 – Jul 2026</div>
+            </div>
+            <div style="font-size: 13px; color: var(--text-main);">Bachelor of Technology (B.Tech) – Information Technology</div>
+        </div>
+        <div class="item" style="margin-top: 6px;">
+            <div class="item-header">
+                <div>
+                    <span class="item-title">Army Public School, Delhi Cantt</span> — <span class="item-subtitle">New Delhi</span>
+                </div>
+                <div class="item-date">2021 | 2019</div>
+            </div>
+            <div style="font-size: 12.5px; color: var(--text-light);">Class XII (CBSE) - 2021 | Class X (CBSE) - 2019</div>
+        </div>
+    </section>
+
+    <!-- Certifications -->
+    <section>
+        <h2 class="section-title">Certifications</h2>
+        <ul class="bullets">
+            <li><strong>Deloitte Data Analytics Job Simulation (Forage)</strong> — Built Tableau dashboards to visualize device/factory downtime and applied statistical classification techniques.</li>
+            <li><strong>Data Analytics Training (YBI Foundation)</strong> — Conducted data cleaning, EDA, and statistical visualization using Python, SQL, and Pandas.</li>
+        </ul>
+    </section>
+</div>
+
+</body>
+</html>
